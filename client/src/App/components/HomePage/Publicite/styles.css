@@ -1,0 +1,39 @@
+.footer__pub {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    gap: 1.5rem;
+}
+
+.property-listing-container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+@media screen and (max-width: 900px) {
+    .footer__pub {
+        display: none;
+    }
+}
+.wp-post-image {
+    width: 50%;
+    margin-bottom: 1rem;
+}
+
+
+.category_name {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #184066;
+    word-break: break-word;
+    margin-bottom: 1rem;
+
+}
+
+.price_unit,
+.category_tagline,
+.fa-heart {
+    display: none;
+}

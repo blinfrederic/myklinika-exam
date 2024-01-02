@@ -1,0 +1,9 @@
+### donnees
+
+
+GET http://localhost:3002/api/trouduc/fred
+
+###
+
+GET http://localhost:3002/api/praticiens-liste
+### USERS

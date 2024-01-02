@@ -1,0 +1,34 @@
+.navbar-filter {
+    background-color: hsla(23, 51%, 88%, 0.25);
+}
+
+.app__container {
+    background-color: hsla(23, 51%, 88%, 0.25);
+}
+
+.mapPage__error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    font-size: 1.5rem;
+    text-align: center;
+    min-height: 3rem;
+
+}
+
+@media screen and (min-width:900px) {
+    .app__container {
+        width: 100%;
+        display: flex;
+    }
+
+    .app__legends {
+        background-color: #FBF7F4;
+        width: 50%;
+    }
+
+    .app__map {
+        width: 50%;
+    }
+}

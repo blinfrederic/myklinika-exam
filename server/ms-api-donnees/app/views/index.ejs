@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/styles.css">
+    <script defer src="/index.js"></script>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <title>Données - Praticiens - Epcis - Communes</title>
+
+</head>
+
+<body>
+    <header class="header">
+
+    </header>
+    <main class="content">
+
+        <h1>API Données - Praticiens - Epcis - Communes</h1>
+
+        <p class="desc">
+            Bienvenue sur la documentation technique de l'API Données ( Praticiens - Epcis - Communes ).
+            Cette page vous permettra de comprendre le fonctionnement de l'API et de vous familiariser avec les données
+            disponibles.
+        </p>
+
+
+        <div class="container__part">
+
+            <div class="content__part">
+                <h2>Communes</h2>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/api/commune/:name/:libelle</span><span
+                            class="part__title">Recherche
+                            pour une commune
+                            précise</span></button>
+
+                    <div class="panel">
+                        <span>exemple : </span>
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>name</td>
+                                <td>nom d'une commune</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>code_commune</td>
+                                <td>code de la commune</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>code_epci</td>
+                                <td>code de l'epci au-quelle appartient la commune</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_ald</td>
+                                <td>affections de longue durée </td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>population</td>
+                                <td>population d'une commune</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_maternelle</td>
+                                <td>nombre d'école maternelle</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_elementaire</td>
+                                <td>nombre d'école primaire</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_college</td>
+                                <td>nombre de collége</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_lycee</td>
+                                <td>nombre de lycée</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_msp</td>
+                                <td>nombre de maison de santé pluriprofessionnelle</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>zonage_medecin_generaliste</td>
+                                <td>zonage medecin generaliste</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>zonage_infirmiers</td>
+                                <td>zonage infirmiers</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>zonage_kines</td>
+                                <td>zonage kines</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>zonage_dentistes</td>
+                                <td>zonage dentistes</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>zonage_orthophonistes</td>
+                                <td>zonage orthophonistes</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>zonage_sages_femmes</td>
+                                <td>zonage sages femmes</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>zrr_simp</td>
+                                <td>zrr simple</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>zonage_zrr</td>
+                                <td>zonage zrr</td>
+                                <td>string</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/api/communes/pagination/:pageNumber</span><span
+                            class="part__title">Pagination pour les
+                            communes</span></button>
+
+                    <div class="panel">
+                        <span>exemple : </span>
+                        <table>
+
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>pageNumber</td>
+                                <td>numero de page</td>
+                                <td>number</td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="content__part">
+
+                <h2>EPCIs</h2>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/api/epcis/pagination/:pageNumber</span><span
+                            class="part__title">Pagination pour les
+                            EPCIs</span></button>
+
+                    <div class="panel">
+                        <span>exemple : </span>
+                        <table>
+
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>pageNumber</td>
+                                <td>numero de page</td>
+                                <td>number</td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/api/epcis/libelle/:libelle</span><span
+                            class="part__title">Recherche
+                            par EPCIs et renvoi le
+                            detail d'une catégorie</span></button>
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nb_ald</td>
+                                <td>affections de longue durée </td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>population</td>
+                                <td>population d'un epci</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>nb_maternelle</td>
+                                <td>nombre d'école maternelle</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>nb_elementaire</td>
+                                <td>nombre d'école primaire</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_college</td>
+                                <td>nombre de collége</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>nb_lycee</td>
+                                <td>nombre de lycée</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>tx_equipement_sc</td>
+                                <td>taux d'équipement sportif et culturel</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>nb_commune</td>
+                                <td>nombre de commune</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>nb_msp</td>
+                                <td>nombre de maison de santé pluriprofessionnelle</td>
+                                <td>number</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/api/epci/:codeEpci</span><span
+                            class="part__title">Toutes les
+                            informations sur un EPCI</span></button>
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>code d'un epci</td>
+                                <td>toutes les informations d'un epci</td>
+                                <td>number</td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/epci/:codeEpci/:libelle</span><span
+                            class="part__title">Information
+                            d'un EPCI en
+                            fonction du libelle</span></button>
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>code d'un epci</td>
+                                <td>Attend un code epci</td>
+                                <td>number</td>
+
+                            </tr>
+
+                            <tr>
+                                <td>code_epci</td>
+                                <td>code de l'epci au-quelle appartient la commune</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_ald</td>
+                                <td>affections de longue durée </td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>population</td>
+                                <td>population d'une commune</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_maternelle</td>
+                                <td>nombre d'école maternelle</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_elementaire</td>
+                                <td>nombre d'école primaire</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_college</td>
+                                <td>nombre de collége</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_lycee</td>
+                                <td>nombre de lycée</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_msp</td>
+                                <td>nombre de maison de santé pluriprofessionnelle</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>tx_equipement_sc</td>
+                                <td>taux equipement sportif et culturel</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>nb_commune</td>
+                                <td>nombre de communes</td>
+                                <td>number</td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/epcis/communes/:name</span><span
+                            class="part__title">Toutes les
+                            communes d'un
+                            EPCI</span></button>
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'un epci</td>
+                                <td>toutes les communes d'un epci</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/epci/communes/:codeEpci/:libelle</span><span
+                            class="part__title">Toutes
+                            les
+                            communes d'un
+                            EPCI</span></button>
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>code_epci</td>
+                                <td>code de l'epci au-quelle appartient la commune</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_ald</td>
+                                <td>affections de longue durée </td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>population</td>
+                                <td>population d'une commune</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_maternelle</td>
+                                <td>nombre d'école maternelle</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_elementaire</td>
+                                <td>nombre d'école primaire</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_college</td>
+                                <td>nombre de collége</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_lycee</td>
+                                <td>nombre de lycée</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>nb_msp</td>
+                                <td>nombre de maison de santé pluriprofessionnelle</td>
+                                <td>number</td>
+                            </tr>
+
+                            <tr>
+                                <td>tx_equipement_sc</td>
+                                <td>taux equipement sportif et culturel</td>
+                                <td>number</td>
+                            </tr>
+                            <tr>
+                                <td>nb_commune</td>
+                                <td>nombre de communes</td>
+                                <td>number</td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/epci/communes/:codeEpci/:libelle</span><span
+                            class="part__title">Toutes
+                            les
+                            communes d'un
+                            EPCI</span></button>
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>Pas de parametre</td>
+                                <td>liste de tous les libellés</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="content__part">
+                <h2>Praticiens</h2>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/praticiens/commune/:commune</span><span
+                            class="part__title">Informations sur toutes les spécialités d'un praticien dans une
+                            commune</span></button>
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'une commune</td>
+                                <td>toutes les informations d'une commune ( apl, nombre, evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/praticiens/commune/:commune/:specialite</span><span
+                            class="part__title">Informations sur une spécialité d'un praticien dans une
+                            commune</span></button>
+
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'une commune</td>
+                                <td>toutes les informations d'une commune ( apl, nombre, evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>specialité</td>
+                                <td>toutes les informations d'une commune par specialité ( apl, nombre,
+                                    evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/praticiens/epci/:epci</span><span
+                            class="part__title">Informations sur
+                            toutes les
+                            spécialités d'un praticien dans un
+                            EPCI</span></button>
+
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'un EPCI</td>
+                                <td>toutes les informations d'un EPCI ( apl, nombre, evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/praticiens/epci/:epci/:specialite</span><span
+                            class="part__title">Informations sur une
+                            spécialité d'un praticien dans un EPCI</span></button>
+
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'un EPCI</td>
+                                <td>toutes les informations d'un EPCI ( apl, nombre, evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>specialité</td>
+                                <td>toutes les informations d'un EPCI par specialité ( apl, nombre, evolution_sur_5_ans
+                                    )</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/praticien/:libelle/:categorie</span><span
+                            class="part__title">Informations sur une spécialité d'un praticien dans un
+                            EPCI</span></button>
+
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'un EPCI</td>
+                                <td>toutes les informations d'un EPCI ( apl, nombre, evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>specialité</td>
+                                <td>toutes les informations d'un EPCI par specialité ( apl, nombre, evolution_sur_5_ans
+                                    )</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/praticiens-liste</span><span
+                            class="part__title">Informations
+                            sur une spécialité d'un praticien dans un
+                            EPCI</span></button>
+
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'un EPCI</td>
+                                <td>toutes les informations d'un EPCI ( apl, nombre, evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+
+                <div class="part">
+                    <button class="accordion"><span class="part__methode">GET</span><span
+                            class="part__route">http://localhost:3002/api/praticiens-libelle-liste</span><span
+                            class="part__title">Informations sur
+                            une spécialité d'un praticien dans un
+                            EPCI</span></button>
+
+                    <div class="panel">
+                        <table>
+                            <tr>
+                                <th>Parametre</th>
+                                <th>Description</th>
+                                <th>Type</th>
+                            </tr>
+
+                            <tr>
+                                <td>nom d'un EPCI</td>
+                                <td>toutes les informations d'un EPCI ( apl, nombre, evolution_sur_5_ans )</td>
+                                <td>string</td>
+                            </tr>
+
+                            <tr>
+                                <td>specialité</td>
+                                <td>toutes les informations d'un EPCI par specialité ( apl, nombre, evolution_sur_5_ans
+                                    )</td>
+                                <td>string</td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+    <footer class="footer">
+
+    </footer>
+</body>
+
+</html>

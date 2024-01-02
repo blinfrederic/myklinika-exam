@@ -1,0 +1,253 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: Myklinica API
+  description: Récupérer des données publics relatives aux communautées de communes et aux communes
+
+paths:
+  /documentation:
+    get:
+      summary: Page d'accueil de la documentation
+      operationId: homePage
+      responses:
+        '200':
+          description: OK
+
+  /commune/{name}/{libelle}:
+    get:
+      summary: Donnée de la commune pour le libellé demandé
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Nom de la commune
+        - name: libelle
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Libellé de la donnée recherchée
+      responses:
+        '200':
+          description: OK
+
+  /communes/pagination/{pageNumber}:
+    get:
+      summary: Liste de toutes les communes et leurs données
+      parameters:
+        - name: pageNumber
+          in: path
+          required: true
+          schema:
+            type: number
+          description: Numero de la page
+      responses:
+        '200':
+          description: OK
+
+  /epcis/pagination/{pageNumber}:
+    get:
+      summary: Liste de tous EPCI et leurs données
+      parameters:
+        - name: pageNumber
+          in: path
+          required: true
+          schema:
+            type: number
+          description: Numero de la page
+      responses:
+        '200':
+          description: OK
+
+  /epci/{codeEpci}:
+    get:
+      summary: Toutes les donnée de l'EPCI
+      parameters:
+        - name: codeEPCI
+          in: path
+          required: true
+          schema:
+            type: number
+          description: Code de l'EPCI
+      responses:
+        '200':
+          description: OK
+
+  /epci/{codeEpci}/{libelle}:
+    get:
+      summary: Donnée d'un seul EPCI pour le libellé recherché
+      parameters:
+        - name: codeEpci
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Code de l'EPCI
+        - name: libelle
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Libellé de la donnée lié aux EPCI
+      responses:
+        '200':
+          description: OK
+
+  /epci/communes/{codeEpci}/{libelle}/:
+    get:
+      summary: Obtenir toutes les communes d'un EPCI et la donnée recherché
+      parameters:
+        - name: codeEpci
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Code EPCI
+        - name: libelle
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Libellé de la donnée lié aux communes
+      responses:
+        '200':
+          description: OK
+
+  /epcis/libelle/{libelle}:
+    get:
+      summary: Obtenir tous les EPCIs et leur donnée pour le libellé demandé
+      parameters:
+        - name: libelle
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Libellé de la donnée lié aux EPCI
+      responses:
+        '200':
+          description: OK
+
+  /epcis/communes/{name}:
+    get:
+      summary: Obtenir toutes les communes par EPCI
+      parameters:
+        - name: name
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Nom de l'EPCI
+      responses:
+        '200':
+          description: Succès
+
+  /epcis/libelle-liste:
+    get:
+      summary: Obtenir la liste de tous les type de données relatives aux EPCI
+      responses:
+        '200':
+          description: OK
+
+  /praticiens/commune/{commune}:
+    get:
+      summary: Obtenir toutes les données d'une commune relative aux praticiens
+      parameters:
+        - name: commune
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Nom de la commune
+      responses:
+        '200':
+          description: OK
+
+  /praticiens/commune/{commune}/{specialite}:
+    get:
+      summary: Obtenir toutes les données d'une commune pour un type de praticien
+      parameters:
+        - name: commune
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Nom de la commune
+        - name: specialite
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Spécialité du praticien
+      responses:
+        '200':
+          description: OK
+
+  /praticiens/epci/{epci}:
+    get:
+      summary: Obtenir toutes les données d'un EPCI relative aux praticiens
+      parameters:
+        - name: epci
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Code de l'EPCI
+      responses:
+        '200':
+          description: OK
+
+  /praticiens/epci/{epci}/{specialite}:
+    get:
+      summary: Obtenir toutes les données d'un EPCI pour un type de praticien
+      parameters:
+        - name: epci
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Code de l'EPCI
+        - name: specialite
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Spécialité du praticien
+      responses:
+        '200':
+          description: OK
+
+  /praticien/{libelle}/{categorie}:
+    get:
+      summary: Obtenir les EPCIs par libellé et catégorie
+      parameters:
+        - name: libelle
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Libellé de l'EPCI
+        - name: categorie
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Catégorie de l'EPCI
+      responses:
+        '200':
+          description: Succès
+
+  /praticiens-liste:
+    get:
+      summary: Obtenir la liste de tous les types de praticiens et leur identifiants
+      responses:
+        '200':
+          description: OK
+
+  /praticiens-libelle-liste:
+    get:
+      summary: Obtenir la liste de tous les types de données relatives aux praticiens
+      responses:
+        '200':
+          description: OK

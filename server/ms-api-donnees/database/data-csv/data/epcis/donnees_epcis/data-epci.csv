@@ -1,0 +1,1259 @@
+code_epci;nom_epci;nb_ald;population;nb_maternelle;nb_elementaire;nb_college;nb_lycee;tx_equipement_sc;nb_commune;nb_msp
+200000172;CC Faucigny-Glières;3691;27218;3;15;2;3;0,00;7;1
+200000438;CC du Pays de Pontchâteau St-Gildas-des-Bois;5592;35917;2;19;6;2;0,85;9;0
+200000545;CC des Portes de Romilly sur Seine;3269;18739;2;12;4;2;0,54;6;1
+200000628;CC Rhône Lez Provence;4590;24224;5;10;2;1;0,42;5;0
+200000800;CC Coeur de Sologne;1920;10437;1;8;1;0;2,84;6;0
+200000925;CC de la Plaine Dijonnaise;3272;22009;14;20;1;2;0,91;22;1
+200000933;CC Sauldre et Sologne;2781;14511;2;13;1;0;2,74;14;0
+200004802;CC du Pays de Fayence;4951;28550;5;10;2;0;2,14;9;2
+200005932;CC des Portes de Sologne;2396;15489;4;9;1;0;2,60;7;0
+200005957;CC de la Région de Rambervillers;2243;12958;5;14;2;1;0,77;30;1
+200006682;CA Beaune, Côte et Sud - Communauté Beaune-Chagny-Nolay;N/A - secret statistique;50678;20;42;7;6;1,75;53;1
+200006716;CC du Nogentais;N/A - secret statistique;16712;1;12;1;0;2,97;23;1
+200006930;CC du Haut Allier;960;5170;1;6;2;2;1,93;10;1
+200006971;CC du Perche;3417;18056;4;14;5;3;3,29;20;1
+200007052;CC de la Marche Berrichonne;1246;5571;1;4;1;0;1,77;9;0
+200007177;CC Pays de Nérondes;915;4764;2;5;2;0;2,05;12;0
+200010650;CA du Grand Dole;9552;54514;11;39;9;6;1,83;47;1
+200010700;CA Caux Seine Agglo;12412;77889;23;58;9;4;1,41;50;1
+200011773;CA Annemasse-Les Voirons-Agglomération;10998;92176;7;29;6;5;0,55;12;2
+200011781;CC Portes du Berry entre Loire et Val d'Aubois;N/A - secret statistique;9511;1;9;1;0;1,03;12;1
+200013050;CC Sauer-Pechelbronn;3551;17394;3;21;2;1;1,15;24;1
+200015162;CC de l'Oriente;1108;6032;1;4;0;0;1,66;22;0
+200016905;CC du Pays de Lamastre;N/A - secret statistique;6695;1;8;2;0;0,00;11;0
+200017341;CC Lodévois et Larzac;2717;14792;4;13;2;2;1,36;28;1
+200017846;CA Etampois Sud Essonne;N/A - secret statistique;55281;21;34;6;4;1,10;37;4
+200018083;CC de Desvres-Samer;3529;23289;6;30;3;0;1,29;31;1
+200018166;CC Le Grésivaudan;13985;102259;30;56;8;3;1,18;43;1
+200018406;CC du Romorantinais et du Monestois;6530;33817;7;22;4;2;1,49;16;2
+200018521;CC du Val de Bouzanne;1134;5979;2;5;1;0;0,00;12;1
+200018653;CA CAP Excellence;17533;97762;28;39;17;16;0,90;3;1
+200022986;CC du Grand Pic Saint-Loup;6652;50490;12;25;3;2;0,82;36;0
+200023075;CC du Pays de Maîche;2613;18672;4;16;2;0;1,08;43;1
+200023125;CC Les Portes Briardes Entre Villes et Forêts;7014;45988;14;16;7;5;0,66;5;0
+200023240;CC Pays de Nemours;5190;29469;6;18;4;3;1,68;21;2
+200023299;CC Coeur de Tarentaise;1142;9094;1;11;3;2;5,44;6;2
+200023307;CA du Grand Villeneuvois;9835;47561;13;30;8;4;1,05;19;1
+200023372;CC de la Vallée de Chamonix-Mont-Blanc;1696;13296;2;8;2;2;2,30;4;2
+200023414;Métropole Rouen Normandie;88247;496629;142;187;63;42;1,06;71;11
+200023620;CC de la Gascogne Toulousaine;2966;22505;5;12;4;1;1,36;14;0
+200023737;CA du Grand Cahors;8122;42142;7;37;6;6;2,40;36;3
+200023778;CA du Pays de Saint-Gilles-Croix-de-Vie;11871;51560;4;24;2;2;0,81;14;1
+200023794;CC de Blaye;3762;20151;2;21;3;2;1,50;20;1
+200023919;CC Gâtinais Val de Loing;3381;18546;7;13;3;0;0,53;20;1
+200026573;CC Haut-Jura Saint-Claude;3683;19793;6;18;4;2;0,99;22;3
+200027027;CC Arc Sud Bretagne;6090;28448;1;20;3;0;1,80;12;2
+200027076;CC Arnon Boischaut Cher;N/A - secret statistique;8012;2;6;1;0;1,23;18;1
+200027100;CC Méditerranée Porte des Maures;9546;45871;8;13;5;1;1,13;6;0
+200027183;CU Perpignan Méditerranée Métropole;53570;270610;62;80;26;15;1,04;36;5
+200027217;CC Sarlat-Périgord Noir;3166;16106;3;13;3;3;2,50;13;0
+200027308;CC d'Auberive Vingeanne et Montsaugeonnais;1361;8178;0;9;1;0;0,00;51;0
+200027548;CC des Savanes;2842;29633;11;15;6;3;0,67;4;0
+200029734;CC des 4B Sud Charente;3657;19926;3;19;4;1;2,01;40;3
+200029999;CC Rives de l'Ain - Pays du Cerdon;2314;14664;2;10;2;0;0,68;14;2
+200030195;Métropole Nice Côte d'Azur;103311;553305;104;191;52;32;0,94;51;10
+200030385;CA de Blois ''Agglopolys'';N/A - secret statistique;106117;29;64;15;10;1,04;43;4
+200030435;CC d'Aire-sur-l'Adour;N/A - secret statistique;12850;3;9;3;3;1,56;22;1
+200030526;CC du Ried de Marckolsheim;3544;20425;5;17;2;0;0,49;18;1
+200030633;CA du Caudrésis et du Catésis;N/A - secret statistique;63789;12;52;7;4;1,24;46;2
+200030658;CC du Trièves;1543;10178;3;14;2;0;3,96;27;2
+200030674;CA Val de Garonne Agglomération;10672;60159;13;45;8;5;1,49;43;2
+200032514;CC Berry-Loire-Vauvise;1108;5435;2;7;1;0;0,00;14;1
+200033025;CA de Bar-le-Duc - Sud Meuse;7135;33980;5;21;9;5;1,74;33;3
+200033090;CC Plaines et Monts de France;3182;25413;1;20;1;0;1,21;20;0
+200033116;CC Cluses-Arve et Montagnes;7567;46553;5;19;5;4;1,08;10;2
+200033173;CC de la Haute Vallée de Chevreuse;3358;24989;6;11;3;0;0,79;10;1
+200033181;CA Chartres Métropole;22062;136800;25;60;17;11;0,88;66;3
+200033298;CC des Coëvrons;4637;27182;4;30;6;2;1,47;29;3
+200033579;CU d'Arras;18718;109592;23;63;13;8;0,74;46;4
+200033827;CC de Fium'Orbu Castellu;2032;13130;3;5;1;2;3,08;13;1
+200033868;CC des Ballons des Hautes-Vosges;2937;14877;0;10;2;0;3,97;8;3
+200034023;CC Tarn-Agout;4569;29450;4;22;4;1;1,04;21;1
+200034031;CC des Monts d'Alban et du Villefranchois;1157;6417;0;9;1;0;1,56;14;0
+200034049;CC Centre Tarn;2134;11173;3;13;1;0;0,90;11;3
+200034056;CC du Lautrécois et du Pays d'Agout;2442;14317;1;18;2;0;0,69;28;0
+200034064;CC du Cordais et du Causse (4 C);965;5236;0;6;1;0;2,21;22;0
+200034098;CC des Montagnes du Giffre;1555;12126;0;9;2;0;0,82;8;0
+200034130;CC Gally Mauldre;2945;22184;4;12;2;0;1,82;11;1
+200034197;CC de Montaigne Montravel et Gurson;2267;11946;1;12;2;0;2,50;18;1
+200034205;CC de la Costa Verde;1955;10748;2;8;1;0;0,94;23;1
+200034270;CC du Pays de Barr;4424;24119;5;21;3;1;0,82;20;0
+200034379;CC Pays d'Uzès;5344;29036;8;26;4;2;0,70;34;4
+200034411;CC du Piémont Cévenol;N/A - secret statistique;22136;5;20;3;0;0,46;34;2
+200034601;CC Causses Aigoual Cévennes;1087;5313;3;8;0;0;0,00;15;1
+200034635;CC du Kochersberg;4539;26538;3;21;2;0;0,39;23;1
+200034692;CA du Gard Rhodanien;12892;74755;15;44;8;3;1,34;44;2
+200034700;CA Durance-Lubéron-Verdon Agglomération;11887;63316;15;30;10;5;1,60;25;4
+200034718;CC de Vitry, Champagne et Der;N/A - secret statistique;23654;5;16;5;4;0,83;35;0
+200034726;CC Bastides de Lomagne;1892;11285;2;10;1;0;1,78;41;1
+200034825;CA du Grand Guéret;5864;28427;8;21;4;5;1,39;25;1
+200034833;CC des Bastides Dordogne-Périgord;N/A - secret statistique;18625;4;23;2;0;1,07;47;1
+200034874;CC Côtes de Meuse Woëvre;925;5983;0;4;0;0;0,00;25;1
+200034882;CC Pays du Mont-Blanc;6853;45436;5;24;7;4;1,34;10;2
+200034957;CC du Frontonnais;3623;27716;6;14;1;1;0,75;10;0
+200035087;CA Terre de Provence;9792;59920;13;23;5;1;1,18;13;2
+200035103;CC de la Vallée de la Haute Sarthe;1268;7500;0;6;1;0;0,00;31;0
+200035111;CC des Sources de l'Orne;1996;11919;1;9;2;1;2,51;23;1
+200035129;CC de Cèze Cévennes;N/A - secret statistique;19191;3;17;3;0;2,61;23;1
+200035137;CC Marche Occitane - Val d'Anglin;N/A - secret statistique;6563;2;6;1;0;3,00;17;0
+200035202;CC Charlieu-Belmont;4154;23513;0;25;3;3;1,28;25;2
+200035319;CA Estérel Côte d'Azur Agglomération;25280;116830;24;29;9;6;0,78;5;0
+200035327;CC Cazals-Salviac;1122;5372;0;8;1;0;1,87;15;0
+200035442;CC du Sud-Artois;4562;27142;10;42;4;1;0,00;64;2
+200035533;CC du Grand Saint Emilionnais;2479;14314;0;18;1;0;0,69;22;0
+200035541;CC des Landes d'Armagnac;2296;10782;3;13;4;1;0,00;27;3
+200035632;CC Armagnac Adour;1382;6685;2;4;2;0;1,47;24;0
+200035707;CC Piège Lauragais Malepère;2620;16042;3;14;1;0;0,63;38;1
+200035715;CA Carcassonne Agglo;21443;113933;28;77;13;6;0,79;83;6
+200035723;CC Ventoux Sud;1456;9538;3;7;1;0;1,06;11;1
+200035731;CA Roannais Agglomération;19129;100914;15;64;14;10;0,80;40;7
+200035756;CC Astarac Arros en Gascogne;1359;7176;4;6;0;0;0,00;37;0
+200035764;CC de la Beauce Loirétaine;2307;16905;5;9;2;0;1,79;23;1
+200035772;CC du Pays du Saintois;2167;14259;5;13;1;0;0,70;55;2
+200035814;CA Flers Agglo;9484;53227;5;35;13;8;1,12;42;3
+200035848;CC du Châtillonnais en Berry;N/A - secret statistique;5656;0;4;1;0;3,44;10;2
+200035855;CC Castelnaudary Lauragais Audois;4128;27723;5;26;4;2;1,84;43;2
+200035863;CC Région Lézignanaise, Corbières et Minervois;6308;33259;4;31;4;2;1,20;54;1
+200035970;CC Vexin Centre;N/A - secret statistique;24861;5;26;3;1;1,21;34;1
+200036069;CC du Pays de Mortagne au Perche;2578;13525;1;9;2;3;2,19;33;1
+200036077;CC du Golfe de Saint-Tropez;10831;57844;9;18;5;2;1,22;12;3
+200036135;CC Coeur de France;3529;18224;3;18;4;3;2,18;19;0
+200036150;CC des Hauts du Val de Saône;1747;8393;0;6;1;0;0,00;48;0
+200036465;CC de Thann-Cernay;7198;37472;13;17;5;3;2,95;16;0
+200036473;CA de Saintes;10702;60447;13;36;7;5;1,51;36;2
+200036499;CC de Marana-Golo;N/A - secret statistique;24425;4;11;2;0;1,26;10;0
+200036523;CC des Bastides en Haut Agenais Périgord;3326;16988;4;19;3;0;1,76;43;1
+200036549;CC Val de Gray;3709;20372;3;14;6;4;1,46;48;2
+200037059;CC de la Haute Somme (Combles - Péronne - Roisel);5017;26767;3;23;4;4;1,10;60;3
+200037133;CC du Provinois;N/A - secret statistique;34631;10;28;7;6;0,58;39;1
+200038958;CC de la Pieve de l'Ornano et du Taravo;2068;13117;1;11;2;0;0,00;28;0
+200038990;CC de Saint-Méen Montauban;N/A - secret statistique;26808;1;21;4;3;1,51;17;2
+200039022;CA Vitré Communauté;11203;82158;4;58;11;5;1,72;46;5
+200039055;CC Ouche et Montagne;1504;10995;4;9;1;0;0,00;32;2
+200039063;CC Forêts, Seine et Suzon;N/A - secret statistique;7066;3;5;0;0;0,00;25;0
+200039204;CC de Lacq-Orthez;N/A - secret statistique;52674;9;58;9;6;2,26;61;1
+200039519;CC du Quercy Blanc;1405;7740;2;7;2;0;1,29;10;0
+200039642;CC Le Tonnerrois en Bourgogne;3039;15332;2;14;2;2;1,26;52;1
+200039709;CC du Serein;1413;7110;0;7;1;0;2,76;35;1
+200039758;CC Avallon, Vézelay, Morvan;3863;18503;5;18;4;4;3,73;48;2
+200039808;CC des Gorges de l'Ardèche;2950;15460;3;12;2;0;1,31;20;2
+200039824;CC Ardèche des Sources et Volcans;N/A - secret statistique;9742;0;11;1;0;1,04;16;1
+200039832;CC Pays des Vans en Cévennes;N/A - secret statistique;9397;1;9;1;0;2,16;15;1
+200039857;CA du Pays de Grasse;17513;100328;16;38;10;5;1,00;23;3
+200039865;Metz Métropole;38029;228038;63;90;29;18;0,90;45;2
+200039907;CC du Sud Messin;2578;16685;6;17;2;0;0,61;34;1
+200039915;CA Cannes Pays de Lérins;32090;157873;26;42;14;10;0,95;5;0
+200039931;CC Alpes d'Azur;1536;9749;1;14;1;0;2,07;34;1
+200039949;CC Rives de Moselle;9222;52774;20;26;3;2;0,96;20;1
+200040038;CC Saône Doubs Bresse;2087;12136;2;11;2;0;0,83;27;0
+200040095;CC Isle Vern Salembre en Périgord;3479;18812;3;13;2;0;1,59;16;0
+200040111;CC Coeur de Chartreuse;2634;17067;0;14;3;0;2,35;17;2
+200040137;CC des Lacs de Champagne;1830;9195;1;9;1;0;1,07;43;2
+200040178;CC de l'Outre-Forêt;3071;16184;5;11;1;0;1,85;13;0
+200040202;CC Provence Verdon;4392;22485;3;13;1;0;0,90;15;1
+200040210;CC Lacs et Gorges du Verdon;1902;9144;2;9;1;0;3,27;16;1
+200040244;CA du Bocage Bressuirais;12233;74029;11;65;13;5;1,49;33;8
+200040251;CC Bassée-Montois;N/A - secret statistique;23169;8;29;2;0;1,29;42;0
+200040277;CA Agglo du Pays de Dreux;N/A - secret statistique;115145;26;62;15;7;0,61;81;7
+200040293;CC du Clunisois;2330;13926;5;13;1;1;5,03;42;1
+200040350;CC Bugey Sud;N/A - secret statistique;34106;5;27;5;4;1,18;43;2
+200040384;CC Isle Double Landais;2863;12356;2;9;1;0;1,65;9;1
+200040392;CA Le Grand Périgueux;19878;103583;18;57;13;13;1,35;43;4
+200040400;CC du Périgord Ribéracois;3945;19447;6;18;4;2;1,02;44;1
+200040418;CC du Pays de Serres en Quercy;1641;8407;1;16;1;0;2,37;22;1
+200040426;CC du Val de l'Oise;2848;15897;1;17;2;0;1,25;32;2
+200040442;CA Luberon Monts de Vaucluse;9596;54777;10;24;5;2;1,46;16;2
+200040459;CA Montélimar Agglomération;11546;67708;12;37;7;5;0,90;27;2
+200040475;CC LBN Communauté;2857;18095;5;19;3;0;0,00;29;2
+200040491;CC Porte de Dromardèche;8055;47646;4;46;8;3;0,85;34;4
+200040509;CC du Crestois et de Pays de Saillans Coeur de Drôme;2783;15961;5;10;5;4;0,64;15;1
+200040558;CC Ecueillé-Valençay;2451;10968;2;12;2;0;5,42;18;3
+200040566;CA de l'Ouest Rhodanien;8611;50651;9;51;12;5;1,38;31;4
+200040574;CC Beaujolais Pierres Dorées;7440;54358;6;42;6;0;0,75;32;2
+200040590;CA Villefranche Beaujolais Saône;12071;72707;14;36;9;7;1,10;18;3
+200040624;CC Pays d'Apt-Luberon;5421;28939;6;22;3;2;1,37;25;3
+200040657;CC de la Matheysine;3232;18902;3;23;3;2;2,11;43;2
+200040681;CC Enclave des Papes-Pays de Grignan;4415;22780;4;16;3;2;2,19;19;1
+200040715;Grenoble-Alpes-Métropole;N/A - secret statistique;448457;106;164;49;38;0,83;49;14
+200040764;CC du Sud Corse;4077;20708;3;12;3;2;0,95;7;0
+200040772;CC du Perche et Haut Vendômois;1610;9183;0;8;1;0;0,00;23;0
+200040798;CC Val Vanoise;987;9090;2;11;1;0;6,57;9;1
+200040814;CC Briance Sud Haute Vienne;1686;9138;1;9;2;0;1,10;11;0
+200040830;CC du Pays de Fénelon;1851;9654;1;10;0;0;1,04;17;1
+200040889;CC de Portes Sud Périgord;1530;8448;0;7;1;0;1,19;25;1
+200040905;CC Carmausin-Ségala;5552;29863;4;21;3;2;0,34;31;2
+200040947;CC de Flandre Intérieure;16577;102688;7;85;13;8;1,07;50;3
+200040954;CC des Hauts de Flandre;8187;53616;4;50;10;1;1,31;40;2
+200041010;CC Coeur de Savoie;N/A - secret statistique;37495;8;28;3;0;0,54;41;3
+200041051;CC Vallée de la Dordogne et Forêt Bessède;1720;8942;1;6;2;0;0,00;20;2
+200041150;CC Terrassonnais Haut Périgord Noir;N/A - secret statistique;22134;4;20;2;2;2,24;37;1
+200041168;CC de la Vallée de l'Homme;3110;15725;2;12;2;0;2,56;26;2
+200041283;CC de la Plaine du Rhin;3214;18430;6;15;2;0;1,09;19;0
+200041317;CA du Niortais;21966;121754;25;64;13;8;1,07;40;4
+200041325;CC du Pays Rhénan;7041;36926;11;15;3;0;1,09;17;0
+200041333;CC de Parthenay-Gâtine;7142;37038;4;29;9;3;0,80;38;2
+200041366;CC Rhône Crussol;5594;34193;10;20;2;0;0,59;13;0
+200041416;CC Airvaudais-Val du Thouet;1442;6880;2;4;2;0;0,00;9;1
+200041440;CC de Domme- Villefranche du Périgord;1832;8487;0;11;0;0;3,50;23;1
+200041465;CC Val Eyrieux;N/A - secret statistique;12396;2;13;3;2;1,60;29;2
+200041499;CC Aunis Atlantique;4665;31184;6;20;3;0;0,66;20;1
+200041507;CA La Riviéra du Levant;12720;64939;18;25;6;3;0,16;4;1
+200041515;CC du Bassin de Pont-à-Mousson;N/A - secret statistique;40343;14;21;6;3;1,48;31;1
+200041523;CC de la Haute Saintonge;13166;68390;20;75;11;4;1,62;129;7
+200041556;CC Portes de la Creuse en Marche;1585;6597;1;7;2;0;1,51;16;0
+200041572;CC Dronne et Belle;N/A - secret statistique;11270;0;9;2;0;3,55;16;1
+200041614;CC Aunis Sud;5597;32567;8;22;5;2;0,63;24;1
+200041622;CC Ardennes Thiérache;1561;9630;0;7;1;0;1,02;37;1
+200041630;CA Ardenne Métropole;23159;121184;13;75;23;15;1,07;58;4
+200041689;CC Vals de Saintonge Communauté;N/A - secret statistique;51994;13;42;10;3;1,53;110;7
+200041721;CC de la Haute Comté;3519;17140;2;13;3;0;2,82;37;2
+200041762;CA Rochefort Océan;11449;63968;13;32;7;4;1,42;25;2
+200041788;CA du Pays Nord Martinique;19754;96187;21;51;19;10;0,30;18;2
+200041853;CC du Pays de Montbozon et du Chanois;1015;6593;1;5;0;0;1,52;27;0
+200041861;CC du Triangle Vert;1724;11041;3;12;0;0;0,90;42;1
+200041879;CC Terres de Saône;2433;13187;3;10;1;0;0,00;39;1
+200041887;CC du Val Marnaysien;2130;14427;2;10;1;0;0,00;45;1
+200041960;CC Pévèle-Carembault;14642;97129;9;55;10;6;0,52;38;10
+200041994;CC Haut Val de Sèvre;4805;30671;5;23;4;3;0,65;19;1
+200042000;CC Bruyères-Vallons des Vosges;2362;15040;2;24;3;2;1,98;34;1
+200042174;CA Lorient Agglomération;36038;205765;25;90;27;16;0,83;25;6
+200042182;CC du Mont des Avaloirs;3404;15670;4;16;3;0;1,25;26;1
+200042190;CA de la Porte du Hainaut;26303;157752;45;84;19;9;0,94;47;6
+200042372;CC des Coteaux Arrats Gimone;1766;10745;2;11;1;0;1,87;30;0
+200042414;CC Bresse Revermont 71;1825;9898;2;11;1;0;1,01;17;1
+200042463;CC de la Montagne Noire;1120;5838;0;10;1;0;3,43;22;0
+200042497;CC Dombes Saône Vallée;5192;39725;3;23;3;1;0,52;19;0
+200042604;CC de Granville, Terre et Mer;9959;44569;2;27;5;5;1,58;32;5
+200042620;CC de la Région de Suippes;N/A - secret statistique;7745;2;6;1;0;0,00;16;1
+200042646;CC Grand Orb communauté de communes en Languedoc;N/A - secret statistique;19958;5;18;3;3;3,97;24;3
+200042653;CC Sud-Hérault;3520;17999;4;10;3;0;0,56;17;2
+200042703;CC de l'Argonne Champenoise;2220;11862;1;10;1;0;1,67;60;0
+200042729;CC de la Baie du Cotentin;4201;23153;1;13;4;2;1,30;23;2
+200042901;CC Drôme Sud Provence;6983;42937;12;20;6;2;0,71;14;3
+200042935;CA Haut - Bugey Agglomération;N/A - secret statistique;63216;20;46;9;6;1,58;42;3
+200042943;CC du Cap Corse;N/A - secret statistique;6655;0;7;1;0;1,48;18;0
+200042992;CC Perthois-Bocage et Der;N/A - secret statistique;5622;0;4;0;0;1,77;25;1
+200043016;CC Val de Charente;N/A - secret statistique;13753;2;11;4;1;1,44;32;2
+200043065;CC du Val d Amboise;4768;27757;6;19;4;2;1,80;14;1
+200043081;CC Chinon, Vienne et Loire;4787;23456;4;20;4;3;2,56;19;3
+200043123;CC Auray Quiberon Terre Atlantique;16735;89233;1;52;12;5;1,71;24;3
+200043156;CC du Pays Réthelois;4798;30012;1;20;6;2;1,34;65;4
+200043172;CA du Bassin de Brive;18258;107216;19;57;13;9;0,84;48;3
+200043263;CC Coeur de l'Avesnois;5145;29279;4;32;4;3;1,34;43;0
+200043321;CC du Pays de Mormal;7547;48318;7;39;5;4;0,62;53;2
+200043354;CC de Villedieu Intercom;N/A - secret statistique;15653;3;12;3;0;1,28;27;2
+200043396;CA Maubeuge Val de Sambre;23544;124770;39;72;21;13;1,12;43;6
+200043404;CC du Sud Avesnois;N/A - secret statistique;24603;9;17;6;4;1,20;12;4
+200043438;CC de la Moivre à la Coole;1368;9439;2;6;0;0;0,00;28;1
+200043495;CA du Pays de Laon;7845;41853;10;26;6;5;1,41;38;1
+200043602;CC des Albères, de la Côte Vermeille et de l'Illibéris;12167;56597;16;17;6;3;2,34;15;0
+200043628;CC des Vallées du Clain;3817;26984;6;16;1;0;0,75;16;1
+200043693;CC Terre Lorraine du Longuyonnais;N/A - secret statistique;15391;5;12;2;0;0,00;27;1
+200043776;CC Pyrénées audoises;2966;13665;3;18;3;1;0,72;61;2
+200043974;CC du Sud Gironde;7201;39211;3;32;6;2;1,81;37;1
+200043982;CC du Bazadais;3493;15769;2;12;3;2;1,27;31;1
+200043990;CC Vallons de Haute-Bretagne Communauté;5827;44247;2;30;5;0;0,68;18;3
+200044014;CC Creuse Grand Sud;N/A - secret statistique;11711;4;18;3;3;2,52;26;0
+200044030;CC des 7 Vallées;N/A - secret statistique;29522;5;41;4;0;0,67;69;1
+200044048;CC Osartis Marquion;6583;42476;11;38;4;0;0,24;49;1
+200044253;CC du Bassin de Joinville en Champagne;2409;12343;1;9;1;1;2,40;59;1
+200044394;CC du Réolais en Sud Gironde;4758;23868;6;18;2;1;2,10;41;1
+200044469;CC du Pays de Mirepoix;1963;10548;4;12;1;2;0,95;33;1
+200044618;CA Douaisis Agglo;24689;148875;34;73;20;12;0,34;35;6
+200044691;CA du Nord Grande Terre;11741;56120;13;25;9;5;1,05;5;3
+200046977;Métropole de Lyon;194906;1416545;211;422;156;114;0,71;59;32
+200048551;CC du Pays de Craon;4641;28647;4;29;5;0;1,74;37;1
+200049187;CA du Grand Verdun;N/A - secret statistique;27412;5;15;7;6;1,44;25;2
+200049211;CC Conflent-Canigó;3899;20686;4;17;3;2;1,47;45;1
+200049484;CC Berry Grand Sud;2402;11559;5;18;1;0;4,27;32;0
+200050532;CC de Petite-Terre;123;29273;7;12;2;2;;2;0
+200054781;Métropole du Grand Paris;955892;7086619;1328;1732;713;535;0,83;131;96
+200054807;Métropole d'Aix-Marseille-Provence;321944;1903173;501;631;219;149;0,79;92;36
+200055481;CC Beauce Val de Loire;3164;19587;5;15;3;0;1,01;30;3
+200055655;CA Roissy Pays de France;53988;357929;103;149;48;27;0,71;42;6
+200055887;CC Mayenne Communauté;6032;36678;3;33;6;4;1,36;33;1
+200056232;CA Communauté Paris-Saclay;41590;314485;90;98;32;21;0,67;27;5
+200056380;CA Plaine Vallée;26095;183428;42;58;21;10;0,82;18;3
+200057859;CA Coeur d'Essonne Agglomération;27411;204454;56;68;17;13;0,94;21;2
+200057958;CA Paris - Vallée de la Marne;32824;227011;68;81;25;16;0,88;12;4
+200058360;CC entre Beauce et Perche;3290;21094;3;15;2;0;0,94;33;1
+200058477;CA Val d'Yerres Val de Seine;24958;177572;47;50;20;11;0,85;9;2
+200058485;CA Val Parisis;37900;284254;64;86;33;16;0,58;15;3
+200058519;CA Saint Germain Boucles de Seine;42604;336128;88;98;33;23;0,81;19;1
+200058782;CA de Saint Quentin en Yvelines;31003;228500;98;102;27;16;0,79;12;3
+200059228;CA Grand Paris Sud Seine Essonne Sénart;51157;355010;107;136;38;22;0,71;23;7
+200059392;CC Bièvre Isère;9340;55314;6;47;8;4;0,73;50;2
+200059400;CC Porte Océane du Limousin;5198;25630;4;14;4;2;1,95;13;1
+200059871;CC du Centre-Ouest;200;50020;16;25;5;4;;5;1
+200059889;CU Grand Paris Seine et Oise;60326;424510;125;173;45;23;0,67;73;5
+200060010;CA Mauges Communauté;17721;120454;5;96;17;9;1,33;6;7
+200060457;CA de Dembeni / Mamoudzou;185;87285;16;31;8;8;;2;2
+200060465;CA du Grand Nord de Mayotte;163;59042;19;29;4;3;;4;1
+200060473;CC du Sud;126;30898;9;24;5;4;;4;0
+200065563;CC Normandie-Cabourg-Pays d'Auge;6468;31329;5;13;5;1;1,28;39;0
+200065589;CC Val ès Dunes;2892;18706;0;11;1;0;0,00;18;0
+200065597;CU Caen la Mer;43166;272343;20;95;32;27;1,12;48;7
+200065647;CA Pays de Montbéliard Agglomération;25162;139590;47;77;18;6;1,57;72;2
+200065787;CC de Pont-Audemer / Val de Risle;5769;32651;4;30;7;4;1,21;32;1
+200065886;CA Loire Forez Agglomération (LFA);18389;111128;10;76;12;7;1,37;87;5
+200065894;CC de Forez-Est;10787;64083;5;46;8;5;1,10;42;3
+200065928;CA Lannion-Trégor Communauté;18723;100188;4;77;11;6;1,00;57;5
+200066009;CA Mulhouse Alsace Agglomération;47717;273767;74;92;31;20;1,06;39;3
+200066017;CC Lieuvin Pays d'Auge;3382;20456;3;16;2;0;0,00;51;2
+200066025;CC Alsace Rhin Brisach;5509;33686;10;26;2;0;2,40;29;0
+200066033;CC Sud Alsace Largue;3642;22322;2;16;2;0;0,90;44;2
+200066041;CC Sundgau;N/A - secret statistique;47711;7;32;6;4;1,68;64;0
+200066058;CA Saint-Louis Agglomération;11518;82859;20;37;8;3;0,87;40;2
+200066108;CC des Portes de Meuse;3067;16235;1;14;2;0;1,81;51;2
+200066116;CC Argonne-Meuse;1364;7003;1;6;1;0;1,41;38;1
+200066124;CA Gaillac-Graulhet;13502;74383;11;46;8;3;1,75;59;3
+200066132;CC du Pays de Stenay et du Val Dunois;1745;9533;1;7;2;2;2,07;41;0
+200066140;CC de l'Aire à l'Argonne;1147;6423;0;5;1;0;1,54;47;2
+200066157;CC de Commercy - Void - Vaucouleurs;3883;22069;4;15;4;3;1,80;54;2
+200066165;CC Val de Meuse - Voie Sacrée;1560;9029;3;10;1;0;0,00;25;1
+200066173;CC de Damvillers Spincourt;1281;8121;1;6;1;0;0,00;41;2
+200066223;CC Arize Lèze;2001;10982;2;12;2;0;1,84;27;3
+200066231;CC des Portes d'Ariège Pyrénées;N/A - secret statistique;39958;8;25;9;7;1,27;35;3
+200066280;CC du Pithiverais;4655;29269;10;20;4;3;1,37;31;1
+200066322;CC Terres des Confluences;7002;42170;7;28;5;3;1,69;22;2
+200066330;CC Terres du Haut Berry;N/A - secret statistique;26114;2;26;1;0;0,38;30;0
+200066348;CC du Minervois au Caroux;2660;14447;5;19;3;1;2,73;36;2
+200066355;CA Sète Agglopôle Méditerranée;24795;127927;26;40;13;6;1,12;14;5
+200066363;CC de la Haute Ariège;1212;7103;1;10;1;0;7,01;52;2
+200066371;CC Causses et Vallée de la Dordogne;8565;45085;7;41;8;5;3,10;77;7
+200066389;CA Saint-Lô Agglo;15374;76494;7;47;14;8;1,05;61;5
+200066405;CC Roumois Seine;6747;41424;6;27;2;0;0,49;40;2
+200066413;CC Intercom Bernay Terres de Normandie;10707;54442;14;49;10;6;0,91;75;1
+200066462;CC Interco Normandie Sud Eure;6869;37865;7;27;7;3;0,78;41;3
+200066512;CC Elan Limousin Avenir Nature;5403;27667;7;19;4;0;1,44;24;2
+200066520;CC Ouest Limousin;2640;11310;0;10;1;0;1,76;16;1
+200066553;CC des Monts de Lacaune et de la Montagne du Haut Languedoc;1525;7978;2;8;1;0;1,25;20;1
+200066561;CC Sidobre Vals et Plateaux;N/A - secret statistique;12399;2;15;1;0;1,59;16;3
+200066587;CC des Monts du Lyonnais;5220;35002;1;40;5;1;0,85;32;4
+200066603;CC du Pays de Lubersac-Pompadour;1729;7480;2;9;1;0;1,33;12;2
+200066637;CC Hautes Terres;2327;11405;1;12;4;1;2,60;35;0
+200066645;CC Vézère-Monédières-Millesources;1295;5706;0;3;1;1;3,99;19;2
+200066652;CC Grand Sud Tarn et Garonne;6164;42859;5;27;5;2;0,95;25;2
+200066660;CC de Saint-Flour;N/A - secret statistique;23447;1;28;6;3;4,69;53;2
+200066678;CC de la Châtaigneraie Cantalienne;4053;21091;0;33;4;0;0,94;50;5
+200066710;CC Cingal-Suisse Normande;N/A - secret statistique;24668;0;15;3;0;0,82;42;1
+200066728;CC Vallées de l'Orne et de l'Odon;N/A - secret statistique;25881;3;15;2;0;0,39;23;1
+200066744;CC Haute-Corrèze Communauté;6133;32103;7;28;7;7;3,90;71;3
+200066751;CC Xaintrie Val'Dordogne;2562;11249;1;14;2;1;0,88;30;1
+200066769;CC Midi Corrézien;2451;12972;1;18;3;0;0,00;34;2
+200066777;CC Ploërmel Communauté;7664;42244;2;39;9;3;1,43;30;3
+200066785;CC de l'Oust à Brocéliande;6903;39243;2;37;5;2;2,31;26;4
+200066793;CA du Grand Annecy;28466;209389;20;80;20;13;1,13;34;4
+200066801;CC Isigny-Omaha Intercom;N/A - secret statistique;26438;0;14;3;0;1,12;59;2
+200066819;CC du Volvestre;4994;30567;7;19;3;0;0,99;32;4
+200066827;CC du Pays de Honfleur-Beuzeville;4742;27172;2;19;4;2;1,47;23;1
+200066835;CC de Sézanne-Sud Ouest Marnais;3666;21145;8;11;4;2;0,94;62;2
+200066850;CC des Paysages de la Champagne;3281;20954;10;18;3;0;0,95;53;2
+200066868;CC Presqu'île de Crozon-Aulne maritime;4057;22419;2;16;3;1;2,65;10;2
+200066876;CA de Châlons-en-Champagne;N/A - secret statistique;79563;17;36;12;8;1,76;46;2
+200066884;CC Quercy Vert-Aveyron;3527;22620;5;15;1;0;0,90;13;1
+200066892;CC de Vendeuvre-Soulaines;1195;7532;3;5;1;0;0,00;38;1
+200066918;CA Alès Agglomération;N/A - secret statistique;132799;33;80;20;10;0,92;72;4
+200066926;CA Grand Auch Coeur de Gascogne;7830;39230;10;27;5;6;1,28;34;0
+200066975;CC Senlis Sud Oise;3437;24658;6;15;4;3;2,46;17;0
+200067023;CC Coutances Mer et Bocage;N/A - secret statistique;47720;1;37;8;3;1,67;49;1
+200067031;CC Côte Ouest Centre Manche;4499;21931;1;17;3;0;1,37;30;2
+200067049;CC Spelunca-Liamone;1429;7615;0;8;1;0;2,63;33;1
+200067064;CC Decazeville Communauté;3875;18370;4;19;5;3;1,60;12;1
+200067072;CC Haut-Léon Communauté;5922;31636;2;24;6;3;1,58;14;2
+200067080;CC Chablis Villages et Terroirs;2612;14722;3;17;2;0;0,67;36;3
+200067106;CA du Pays Basque;59378;318709;34;212;47;29;1,38;158;5
+200067114;CA de l'Auxerrois;13871;67237;19;38;7;8;1,03;29;0
+200067122;CC du Pays de Lafrançaise;1705;11131;1;12;1;0;0,00;11;1
+200067130;CC de Puisaye-Forterre;7008;33770;8;39;5;1;1,75;57;5
+200067155;CC Saint Affricain, Roquefort, Sept Vallons;2662;13624;1;14;3;3;1,46;14;1
+200067163;CC Monts, Rance et Rougier;N/A - secret statistique;6253;0;14;1;0;4,77;23;1
+200067171;CC Aubrac, Carladez et Viadène;2232;10053;0;16;3;0;2,96;21;6
+200067189;CC Creuse Sud Ouest;2746;13488;3;17;3;1;2,21;43;1
+200067197;CC Monts d'Arrée Communauté;1565;7632;0;10;1;0;2,61;12;1
+200067205;CA du Cotentin;30186;178002;20;112;28;10;1,45;129;8
+200067213;CU du Grand Reims;44216;296749;75;122;33;24;0,91;143;5
+200067239;CC des Luys en Béarn;4219;28931;10;32;3;0;2,11;66;1
+200067247;CC Pleyben-Châteaulin-Porzay;4339;22678;2;22;5;3;0,87;17;3
+200067254;CA Pau Béarn Pyrénées;26613;162618;23;70;21;13;1,42;31;2
+200067262;CC du Haut Béarn;N/A - secret statistique;32056;4;37;7;4;1,87;48;2
+200067288;CC du Béarn des Gaves;N/A - secret statistique;17403;3;24;5;0;0,57;53;1
+200067296;CC du Nord Est Béarn;5016;34551;6;37;4;1;0,29;73;4
+200067304;CC Serein et Armance;4428;23751;4;23;2;0;0,41;29;0
+200067320;CC Serre-Ponçon Val d'Avance;1265;7751;0;12;1;0;1,31;16;0
+200067346;CA Pornic Agglo Pays de Retz;12086;66241;2;37;4;1;1,73;15;2
+200067361;CC Grand-Figeac;7885;43747;10;37;8;4;2,75;92;3
+200067379;CC Côtes de Champagne et Val de Saulx;2054;11454;1;8;1;0;0,85;40;2
+200067429;CC Haut Nivernais-Val d'Yonne;N/A - secret statistique;11855;2;8;3;3;3,28;30;1
+200067437;CA Provence-Alpes-Agglomération;9831;47759;8;36;7;4;2,74;46;3
+200067445;CC Buëch-Dévoluy;1783;9479;2;6;1;1;4,27;20;0
+200067452;CC du Guillestrois et du Queyras;1289;7916;1;12;1;0;9,96;15;1
+200067460;CC Loudéac Communauté - Bretagne Centre;9298;51323;4;51;12;3;1,76;41;4
+200067478;CC Comtal Lot et Truyère;3732;19744;2;19;2;1;2,58;21;3
+200067486;CC Bouzonvillois-Trois Frontières;3635;24179;9;22;3;1;0,40;40;0
+200067502;CA Saint-Avold Synergie;8834;52419;22;38;8;6;0,76;41;3
+200067544;CC Creuse Confluence;3615;16379;6;21;3;0;1,21;42;2
+200067551;CA Thonon Agglomération;12541;92185;5;35;10;7;0,79;25;2
+200067593;CC Marche et Combraille en Aquitaine;2909;13233;3;16;3;0;1,48;50;0
+200067627;CC Billom Communauté;4185;25917;3;21;3;0;0,00;25;0
+200067635;CA Clisson Sèvre et Maine Agglo;7865;56596;4;32;7;3;1,08;16;2
+200067643;CC Meurthe Mortagne Moselle;2487;16561;3;14;3;0;0,00;37;2
+200067650;CC Houve-Pays Boulageois;N/A - secret statistique;22940;4;20;3;1;0,00;37;0
+200067668;CC de la Cléry, du Betz et de l'Ouanne;3847;19986;4;14;2;0;1,49;23;1
+200067676;CC Canaux et Forêts en Gâtinais;5283;27334;5;19;3;0;0,73;38;2
+200067684;CA Epernay, Coteaux et Plaine de Champagne;7968;47363;16;27;7;4;1,69;47;1
+200067692;CC Tannay-Brinon-Corbigny;2234;9545;3;11;2;0;0,00;58;2
+200067700;CC Sud Nivernais;4646;20291;6;16;5;3;2,41;20;1
+200067742;CC Serre-Ponçon;N/A - secret statistique;16850;2;11;1;2;2,42;17;2
+200067759;CC Vallées et Plateau d'Ardenne;N/A - secret statistique;24406;5;16;4;0;0,80;31;2
+200067767;CC du Royans-Vercors;1538;9602;3;11;2;0;1,04;18;2
+200067783;CC de Hanau-La Petite Pierre;5427;26407;3;26;3;1;1,13;38;0
+200067791;CA Pays Foix-Varilhes;5694;32077;6;25;2;2;2,20;42;3
+200067817;CC Saône-Beaujolais;7056;44639;6;42;7;2;0,90;35;1
+200067825;CA Gap-Tallard-Durance;N/A - secret statistique;50097;3;31;7;5;1,59;17;1
+200067841;CC de l'Alsace Bossue;5046;24284;9;31;4;2;1,22;45;1
+200067866;CC Sèvre et Loire;6528;49064;4;21;4;0;1,88;11;1
+200067874;CA de Haguenau;19916;97995;23;40;11;8;1,65;36;0
+200067882;CC Bazois Loire Morvan;N/A - secret statistique;15293;2;14;3;0;1,94;46;3
+200067890;CC Morvan Sommets et Grands Lacs;2486;12149;3;13;4;1;4,06;34;2
+200067908;CC Amognes Coeur du Nivernais;1535;8524;3;13;2;0;1,17;28;0
+200067916;CC Coeur de Loire;5730;24776;3;26;6;4;1,99;30;3
+200067924;CC du Canton d'Erstein;9052;48327;12;28;5;2;1,04;28;0
+200067932;CA Golfe du Morbihan - Vannes Agglomération;34194;173461;3;84;20;11;0,71;34;3
+200067940;CC Couserans-Pyrénées;5276;30056;3;35;4;3;1,67;94;5
+200067957;CC Haut Chemin-Pays de Pange;2961;19243;6;13;1;0;1,04;28;1
+200067965;CA de la Région de Compiègne et de la Basse Automne;13022;83078;26;48;10;10;0,97;22;1
+200067973;CC Thelloise;8958;61391;9;41;4;0;0,33;41;2
+200067981;CA Guingamp-Paimpol Agglomération de l'Armor à l'Argoat;13995;73447;5;63;14;7;1,23;57;3
+200067999;CA du Beauvaisis;17422;103934;29;70;14;11;0,68;53;2
+200068005;CC de l'Oise Picarde;3546;21015;7;27;3;0;0,95;52;1
+200068047;CA Creil Sud Oise;14249;88665;35;38;12;8;1,03;11;2
+200068070;CC Loue-Lison;3978;25373;1;19;4;0;0,79;72;3
+200068088;CC Les Bertranges;N/A - secret statistique;19754;4;15;3;0;2,00;32;1
+200068096;CC Champsaur-Valgaudemar;N/A - secret statistique;11355;1;12;2;1;3,58;25;3
+200068104;CA de la Provence Verte;18642;101073;19;36;9;6;0,91;28;3
+200068112;CC du Pays de Saverne;7328;35786;6;19;5;4;1,68;35;0
+200068120;CA Quimper Bretagne Occidentale;16442;101287;5;50;14;12;1,09;14;1
+200068146;CC Sarrebourg Moselle Sud;8690;45329;18;51;7;4;0,88;76;1
+200068229;CC des Baronnies en Drôme Provençale;4128;20908;7;18;2;1;0,95;67;2
+200068278;CC Berry Loire Puisaye;3527;17846;1;13;2;0;1,66;20;2
+200068294;CC des Deux Vallées Vertes;2792;15710;3;11;3;0;1,25;54;2
+200068369;CC de Mirecourt Dompaire;3117;18690;1;17;2;2;2,10;76;0
+200068377;CC de la Porte des Vosges Méridionales;5335;29207;5;15;7;5;3,41;10;2
+200068435;CC Coeur du Perche;2017;11165;0;6;1;0;2,64;12;0
+200068443;CC Andaine - Passais;2716;13049;1;8;1;0;0,76;12;0
+200068450;CC Argentan Intercom;5892;33402;0;22;7;4;0,59;49;1
+200068468;CC des Pays de L'Aigle;N/A - secret statistique;25415;4;18;5;2;1,16;32;1
+200068484;CC des Causses à l'Aubrac;2898;14607;1;20;3;0;1,38;17;1
+200068500;CA de Cambrai;14301;80713;18;66;10;6;0,37;55;2
+200068534;CC Terroir de Caux;6167;37835;15;37;4;0;0,26;79;2
+200068542;CC Les Balcons du Dauphiné;12056;77819;11;52;7;2;0,65;47;4
+200068559;CC de l'Ouest Vosgien;4006;23267;3;22;5;3;2,14;70;2
+200068567;CC Les Vals du Dauphiné;10263;63679;10;42;8;4;0,80;36;4
+200068625;"CC Alpes-Provence-Verdon ""Sources de lumière""";1992;11397;1;11;3;0;5,24;41;1
+200068641;CA Le Muretain Agglo;18431;124721;28;42;11;8;0,98;26;6
+200068658;CA de Chaumont;8434;44205;7;26;8;6;2,23;63;1
+200068666;CA de Saint-Dizier Der et Blaise;10431;56305;10;43;12;8;0,70;60;3
+200068674;CA Grand Lac;11941;77857;14;42;7;4;0,66;28;2
+200068682;CC Terre d'Eau;3189;17397;5;13;3;1;2,26;45;1
+200068757;CA d'Epinal;20065;110325;22;66;14;10;1,89;78;11
+200068765;CC du Sisteronais-Buëch;5114;25243;6;27;4;2;1,99;60;2
+200068773;CC des Vosges côté Sud Ouest;2259;11767;3;13;3;0;0,83;60;3
+200068781;CA Valence Romans Agglo;39305;223630;61;113;25;19;0,99;54;9
+200068799;CC Intercom de la Vire au Noireau;8809;46376;1;25;9;4;1,28;17;2
+200068807;CC du Bassin Auterivain Haut-Garonnais;4818;33168;9;21;3;0;1,55;19;3
+200068815;CC Coeur de Garonne;5923;35018;11;22;4;2;0,57;48;2
+200068831;CC Pays Ségali Communauté;3268;18063;1;23;5;0;2,23;23;0
+200068856;CC des Hauts du Perche;1736;8065;0;5;1;0;0,00;10;0
+200068864;CC de la Mossig et du Vignoble;4666;24706;4;15;2;0;0,81;24;0
+200068872;CC Eguzon - Argenton - Vallée de la Creuse;3902;19480;6;15;4;2;2,54;21;2
+200068880;CC Champagne Boischauts;N/A - secret statistique;9791;2;7;1;0;2,03;30;0
+200068914;CC La Rochefoucauld porte du Périgord;3960;21765;3;19;3;0;1,38;27;3
+200068922;CC du Confluent et des Coteaux de Prayssas;3080;18104;6;20;2;1;1,09;29;2
+200068930;CC Fumel Vallée du Lot;4977;24553;6;19;4;2;1,63;27;2
+200068948;CC Albret Communauté;N/A - secret statistique;25937;7;22;5;2;1,53;33;1
+200068955;CC Anjou Loir et Sarthe;4086;27988;2;22;2;0;1,08;17;1
+200068963;CC Maine Coeur de Sarthe;3159;21539;1;14;2;0;0,47;13;1
+200068989;CA Dinan Agglomération;17663;102994;3;74;13;4;0,72;64;8
+200068997;CA Arlysère;9853;61677;12;46;12;8;0,98;39;5
+200069003;CC du Barséquanais en Champagne;3145;18571;3;20;3;1;1,59;53;1
+200069029;CA des Deux Baies en Montreuillois;13167;65791;12;40;10;10;1,66;46;7
+200069037;CA du Pays de Saint-Omer;17350;105128;10;73;13;9;0,48;53;6
+200069052;CA Grand Belfort;16698;101396;27;58;15;8;1,07;52;2
+200069060;CC des Vosges du Sud;2414;15096;5;16;2;0;1,97;22;2
+200069086;CC Leff Armor Communauté;5068;31592;0;25;3;0;0,00;27;2
+200069094;CC Isle et Crempse en Périgord;2842;14450;3;16;1;0;2,09;25;1
+200069102;CC Randon - Margeride;N/A - secret statistique;5277;0;8;0;0;3,77;15;0
+200069110;CA du Grand Chambéry;21578;138240;33;63;21;14;1,33;38;4
+200069128;CC Mont Lozère;N/A - secret statistique;5627;0;11;2;0;1,82;21;0
+200069136;CC des Cévennes au Mont Lozère;N/A - secret statistique;5043;1;12;3;0;1,98;19;2
+200069144;CC des Hautes Terres de l'Aubrac;873;5052;0;9;0;0;0,00;17;0
+200069151;CC Gorges Causses Cévennes;N/A - secret statistique;6927;1;11;3;0;4,31;17;2
+200069169;CC Dômes Sancy Artense;2314;12573;2;16;2;0;2,38;27;0
+200069177;CC Mond'Arverne Communauté;6749;40762;9;25;3;0;1,24;27;2
+200069185;CC des Terres d'Apcher-Margeride-Aubrac;N/A - secret statistique;10683;1;9;4;4;0,94;20;1
+200069193;CC de la Dombes;N/A - secret statistique;39632;6;24;4;1;1,54;36;2
+200069227;CC Pays Fort Sancerrois Val de Loire;3403;18202;5;24;1;0;0,54;36;1
+200069235;CC du Haut Pays du Montreuillois;2513;15751;7;25;4;1;0,00;49;1
+200069250;CA Troyes Champagne Métropole;N/A - secret statistique;174501;33;86;20;15;1,33;81;8
+200069268;CC Aubrac Lot Causses Tarn;1364;7912;0;10;1;0;1,26;15;1
+200069300;CA Tarbes-Lourdes-Pyrénées;22868;125873;28;73;16;15;1,20;86;4
+200069383;CC Ouest Aveyron Communauté;4988;27306;3;29;5;5;1,46;29;3
+200069391;CA Lamballe Terre et Mer;11014;68062;2;62;9;4;1,62;38;4
+200069409;CA Saint-Brieuc Armor Agglomération;27520;152860;15;85;23;15;1,18;32;3
+200069417;CC Pays d'Orthe et Arrigans;4410;24006;4;23;3;2;2,52;24;2
+200069425;CA Mont-Saint-Michel-Normandie;N/A - secret statistique;87571;9;58;17;7;1,03;95;5
+200069433;CC de Vezouze en Piémont;2231;11623;2;10;1;0;2,55;51;2
+200069441;CC du Pays de Bitche;6708;33512;17;30;4;2;1,47;46;1
+200069458;CC des Vallées d'Auge et du Merlerault;2793;14240;1;9;3;0;1,37;46;3
+200069482;CC des Campagnes de l'Artois;5403;33162;10;46;3;0;0,00;96;1
+200069516;CC Seulles Terre et Mer;2559;17303;1;11;2;0;0,58;28;2
+200069524;CC Pré-Bocage Intercom;N/A - secret statistique;24818;3;14;3;0;0,81;27;2
+200069532;CA Lisieux Normandie;N/A - secret statistique;72916;3;47;14;7;1,76;53;5
+200069540;CC Norge et Tille;2266;16210;8;11;0;0;0,63;14;0
+200069565;CC des Lacs et Montagnes du Haut-Doubs;1665;16407;1;13;2;0;1,24;32;1
+200069581;CC Convergence Garonne;5500;32819;4;21;3;0;0,61;27;2
+200069599;CC rurales de l'Entre-Deux-Mers;3216;16554;8;20;1;0;0,60;50;2
+200069615;CC Bresse Haute Seille;3226;19096;1;21;2;0;0,00;54;2
+200069623;CC Champagnole Nozeroy Jura;3737;22826;3;18;5;5;1,76;66;3
+200069631;CC Terres de Chalosse;3291;18145;4;22;2;0;1,10;34;0
+200069649;CC Chalosse Tursan;4976;26030;7;32;4;0;2,30;50;3
+200069656;CC Coeur Haute Lande;3057;15811;2;21;2;0;3,19;26;3
+200069664;CC Meuse Rognon;2156;10638;0;10;2;0;0,92;59;1
+200069672;CC du Ternois;6732;37698;12;57;8;2;1,05;103;4
+200069698;CC Mâconnais - Tournugeois;N/A - secret statistique;15740;2;13;3;1;1,91;24;4
+200069722;CC interrégionale Aumale - Blangy-sur-Bresle;4171;21324;6;35;3;0;0,46;44;3
+200069730;CC des 4 rivières;5923;29076;8;27;5;2;1,02;53;4
+200069748;CC Val de Gâtine;N/A - secret statistique;21589;3;24;3;0;0,47;31;1
+200069755;CC Mellois en Poitou;N/A - secret statistique;47025;9;43;8;2;1,68;62;5
+200069763;CC du Haut-Poitou;6239;41748;10;28;4;0;0,24;27;2
+200069821;CA Fécamp Caux Littoral Agglomération;6903;38327;8;30;6;3;1,55;33;2
+200069839;CC de la Côte d'Albâtre;N/A - secret statistique;27698;7;26;2;1;1,80;63;1
+200069847;CC Plateau de Caux;3518;21198;4;21;2;0;0,00;40;0
+200069854;CU du Grand Poitiers;27165;196530;45;77;23;17;1,29;40;5
+200069912;CC des Forêts du Perche;1467;7683;2;7;1;0;3,83;15;1
+200069953;CC des Portes Euréliennes d'Ile de France;6855;48615;12;29;5;0;1,44;39;3
+200069961;CC du Grand Châteaudun;7755;39903;12;34;8;2;2,47;23;2
+200069995;CC Médoc Coeur de Presqu'île;6423;30552;4;22;5;3;0,66;18;0
+200070035;CC du Civraisien en Poitou;5181;27163;2;27;7;2;2,19;36;4
+200070043;CC Vienne et Gartempe;N/A - secret statistique;38988;4;38;6;2;2,29;55;6
+200070068;CC Communauté Bray-Eawy;4605;24973;8;25;3;4;0,80;46;3
+200070092;CA du Libournais;16176;92148;17;51;10;6;0,88;45;2
+200070100;CC du Val de Sully;4294;24244;3;22;3;0;2,84;19;1
+200070118;CC Val de Saône Centre;3071;20805;2;17;3;1;0,97;15;2
+200070126;CC Seine et Aube;N/A - secret statistique;10174;1;12;1;0;0,00;25;1
+200070142;CC Lyons Andelle;3826;20656;6;18;2;0;0,48;30;2
+200070159;CC Coeur de Beauce;3972;24337;5;14;3;0;1,22;48;3
+200070167;CC Terres de Perche;2515;14169;5;12;3;1;0,00;22;1
+200070183;CC des Terres du Val de Loire;7845;49283;12;32;8;2;1,44;25;3
+200070233;CA Terres de Montaigu;6876;49885;3;29;5;4;1,02;10;3
+200070282;CC Lavalette Tude Dronne;3234;17634;3;19;3;0;2,25;50;3
+200070290;CC Coeur du Pays Haut;3330;23185;7;14;5;1;0,86;25;2
+200070308;CA Mâconnais Beaujolais Agglomération;15222;78970;17;51;10;7;1,15;39;1
+200070316;CC Entre Arroux, Loire et Somme;N/A - secret statistique;21856;5;19;2;0;2,23;30;4
+200070324;CC du Territoire de Lunéville à Baccarat;7125;40762;9;33;7;5;1,70;43;0
+200070332;CC des Savoir-Faire;2837;15130;5;14;3;0;3,92;63;2
+200070340;CC Haute Maurienne Vanoise;1188;8564;3;10;1;0;5,81;10;1
+200070365;CC Corbières Salanque Méditerranée;N/A - secret statistique;23741;5;12;1;0;1,80;21;3
+200070373;CC Loir-Lucé-Bercé;4857;23512;4;26;5;2;1,68;24;1
+200070407;CA Agglo Pays d'Issoire;10979;56919;13;52;8;4;0,71;88;1
+200070431;CC Saint-Marcellin Vercors Isère Communauté;7926;44618;8;45;5;2;0,23;47;2
+200070449;CC inter-Caux-Vexin;8890;55643;12;56;3;0;1,09;64;2
+200070464;CC Coeur de Maurienne Arvan;2416;14436;6;12;2;2;4,11;14;0
+200070506;CC Pays de Nexon Monts de Chalus;2623;13017;4;12;2;0;1,53;15;1
+200070514;CA du Grand Cognac;11583;69126;16;57;9;4;0,87;55;6
+200070530;CC du Grand Autunois Morvan;6626;35431;9;30;7;4;1,97;55;4
+200070548;CC Brionnais Sud Bourgogne;N/A - secret statistique;15002;4;14;3;0;3,97;29;2
+200070555;CC de la Veyle;3397;23096;1;18;2;0;0,88;18;1
+200070563;CC Terres Touloises;6998;44622;18;30;7;4;1,13;41;1
+200070571;CC Coeur de Berry;1183;6854;1;8;0;0;0,00;11;0
+200070589;CC de Seille et Grand Couronné;2675;18813;3;15;1;0;0,00;42;0
+200070647;CA Bergeracoise;11849;60604;8;36;8;5;1,16;38;4
+200070662;CC Bretagne Porte de Loire Communauté;4483;32384;1;26;3;1;1,24;20;4
+200070670;CC du Pays de Dol et de la Baie du Mont Saint-Michel;4054;23718;1;21;5;2;0,85;19;1
+200070688;CC Couesnon Marches de Bretagne;3864;21957;3;22;4;0;0,00;15;2
+200070712;CC Thiers Dore et Montagne;7749;36628;4;28;7;4;2,15;30;0
+200070720;CC Médoc Atlantique;6771;27231;1;15;3;0;2,25;14;1
+200070738;CC Mad et Moselle;3024;19202;3;18;1;0;1,50;48;0
+200070746;CA Sarreguemines Confluences;12663;63927;29;47;8;5;1,08;38;2
+200070753;CA Riom Limagne et Volcans;11281;67701;12;41;8;6;1,34;31;2
+200070761;CC Ambert Livradois Forez;5837;27565;4;31;9;3;1,81;58;2
+200070779;CC Brie des Rivières et Châteaux;5603;39755;8;30;1;0;0,76;31;0
+200070787;CC du Plateau de Lannemezan;3441;17722;1;17;1;1;1,69;57;0
+200070795;CC du Pays de Trie et du Magnoac;1475;6838;2;6;3;2;4,34;50;2
+200070803;CC des Coteaux du Val d'Arros;1792;11015;3;15;1;0;0,00;53;2
+200070811;CC Pyrénées Vallées des Gaves;2692;15291;7;22;3;1;3,91;46;4
+200070829;CC Neste Barousse;1416;7292;0;7;2;0;2,76;43;1
+200070845;CC Orne Lorraine Confluences;N/A - secret statistique;53038;19;30;8;5;1,51;41;0
+200070852;CC Usses et Rhône;2414;20959;0;17;2;0;1,45;26;0
+200070894;CC de Gevrey-Chambertin et de Nuits-Saint-Georges;4398;29798;13;20;2;1;1,68;55;0
+200070902;CC Auxonne Pontailler Val de Saône;N/A - secret statistique;23396;13;19;3;2;0,86;35;0
+200070910;CC Tille et Venelle;890;4936;3;7;1;0;4,03;18;0
+200070928;CC Terre de Picardie;3072;18152;1;11;2;0;0,00;43;2
+200070936;CC Ponthieu-Marquenterre;6255;32865;3;20;5;1;1,51;71;1
+200070944;CC du Vimeu;4404;22454;5;26;3;2;0,00;25;1
+200070951;CC du Territoire Nord Picardie;5253;31001;4;24;5;3;0,96;65;6
+200070969;CC Avre Luce Noye;N/A - secret statistique;21820;4;24;2;0;0,92;47;2
+200070977;CC du Grand Roye;4452;25378;7;19;4;2;1,17;62;2
+200070985;CC de l'Est de la Somme;3765;19989;4;15;4;1;0,99;41;1
+200070993;CA de la Baie de Somme;9362;48679;13;39;6;4;0,82;43;0
+200071017;CC des Terres d'Auxois;2844;15702;5;14;4;2;1,90;76;1
+200071025;CC Haute-Provence-Pays de Banon;1755;9861;0;10;1;0;2,04;21;0
+200071033;CC Jabron-Lure-Vançon-Durance;934;5264;1;8;1;1;0,00;14;0
+200071041;CC du Chaourçois et du Val d'Armance;1786;10389;1;9;2;0;0,00;42;2
+200071058;CC Les Avant-Monts;4904;27534;3;19;3;0;0,74;25;3
+200071066;CA de Saint-Dié-des-Vosges;14047;73887;9;59;13;7;1,74;77;3
+200071074;CC Les Portes de l'Ile de France;3523;22789;6;18;3;0;0,00;18;0
+200071082;CA Montluçon Communauté;12924;60058;15;35;10;6;1,14;21;1
+200071116;CA ECLA  (Espace Communautaire Lons Agglomération);7387;34113;8;20;5;5;2,33;32;1
+200071140;CA Moulins Communauté;13689;64474;19;45;9;6;1,39;44;5
+200071165;CA Les Sables d'Olonne Agglomération;12245;56343;7;22;7;5;0,94;5;1
+200071173;CC du Pays Arnay Liernais;1330;7041;4;10;2;0;1,40;34;0
+200071181;CC Somme Sud-Ouest;6789;38449;4;29;5;0;1,03;119;6
+200071199;CC Plaine Limagne;3697;21351;3;22;4;0;0,00;25;0
+200071207;CC de Pouilly en Auxois/Bligny sur Ouche;1437;8600;3;12;2;0;0,00;47;2
+200071215;CC Chavanon Combrailles et Volcans;2718;12631;2;16;3;0;0,79;36;3
+200071223;CC Nièvre et Somme;N/A - secret statistique;27803;3;20;4;1;1,07;36;1
+200071298;CC des Terres du Lauragais;5554;41259;8;33;4;2;0,50;58;3
+200071314;CC des Hauts-Tolosans;N/A - secret statistique;34721;10;19;2;0;0,88;29;0
+200071363;CA Vichy Communauté;17421;83578;14;43;11;6;0,97;39;3
+200071371;CC Bresse et Saône;N/A - secret statistique;25513;1;20;3;0;0,79;20;1
+200071389;CC Saint-Pourçain Sioule Limagne;N/A - secret statistique;33906;9;36;6;3;1,47;60;4
+200071405;CC Ardèche Rhône Coiron;N/A - secret statistique;23083;8;18;4;3;2,19;15;1
+200071413;CA Privas Centre Ardèche;N/A - secret statistique;43920;10;45;8;5;1,37;42;3
+200071454;CA Evreux Portes de Normandie;20005;110627;17;68;13;9;0,64;74;4
+200071470;CC Entr'Allier Besbre et Loire;4913;24536;11;30;5;1;2,02;44;3
+200071496;CC du Bocage Bourbonnais;2656;13705;3;18;2;0;2,18;25;1
+200071504;CC des Collines du Perche Normand;2013;12031;0;9;2;0;3,25;16;1
+200071512;CC Commentry Montmarault Néris Communauté;5485;25710;8;21;6;2;0,39;33;1
+200071520;CC Domfront Tinchebray Interco;3027;15836;1;13;4;1;0,63;15;1
+200071538;CC Terres de Bresse;3832;22422;5;23;2;0;0,90;25;1
+200071546;CC Sud Retz Atlantique;3930;25157;1;17;5;2;2,42;8;0
+200071553;CC Loire Layon Aubance;7785;56685;5;54;6;0;0,89;19;3
+200071579;CC Bresse Louhannaise Intercom';5507;28291;7;25;4;2;1,76;30;3
+200071587;CC Loches Sud Touraine;10617;50748;11;46;9;3;1,75;67;7
+200071595;CC Arbois, Poligny, Salins, Coeur du Jura;3593;21647;2;18;6;3;3,66;66;2
+200071629;CC Challans-Gois Communauté;9887;48814;4;25;5;4;1,48;11;3
+200071645;CC Saint Cyr Mère Boitier entre Charolais et Mâconnais;1301;8028;2;13;1;0;2,49;16;1
+200071652;CC du Pays Fertois et du Bocage Carrougien;811;4878;0;2;1;0;2,01;19;1
+200071678;CA Agglomération du Choletais;16286;104864;15;63;14;8;1,25;26;2
+200071751;CA du Bassin de Bourg-en-Bresse;23112;133942;9;84;18;9;0,83;74;9
+200071769;CC Picardie des Châteaux;3032;17122;5;20;2;0;1,16;36;1
+200071777;CC d'Arcis, Mailly, Ramerupt;1715;11819;2;8;1;0;0,85;39;2
+200071785;CA Chauny Tergnier La Fère;9897;54848;20;44;10;5;2,17;48;3
+200071819;CC du Périgord Nontronnais;3343;15072;1;14;2;2;1,32;28;2
+200071827;CA du Grand Angoulême;23900;142379;34;70;20;15;1,27;38;6
+200071843;CC du Vexin Normand;5607;32661;7;25;5;2;0,93;39;3
+200071850;CC du Pithiverais-Gâtinais;4263;25795;6;13;3;0;0,77;32;1
+200071868;CC des Vallées du Haut-Anjou;4787;36542;4;36;5;0;0,28;16;3
+200071876;CA Saumur Val de Loire;16285;98377;8;84;15;6;1,31;45;5
+200071884;CC Le Grand Charolais;N/A - secret statistique;39957;10;28;6;6;2,24;44;3
+200071892;CA du Saint-Quentinois;N/A - secret statistique;79669;7;46;13;12;1,49;39;1
+200071900;CC Vendée Grand Littoral;7690;34724;1;27;2;0;2,05;20;0
+200071918;CC du Pays de Saint-Fulgent - Les Essarts;3901;28542;1;17;4;0;1,79;10;1
+200071926;CC du Limouxin;6033;27598;11;34;4;2;1,45;76;2
+200071934;CC du Pays de Fontenay-Vendée;6195;34968;3;36;5;4;1,71;25;1
+200071942;CC Haut Limousin en Marche;5251;22479;5;16;4;3;3,07;40;2
+200071967;CC Pays d'Evian Vallée d'Abondance;N/A - secret statistique;42077;4;28;5;3;1,94;22;2
+200071983;CC Thiérache Sambre et Oise;2967;16515;3;16;4;1;2,39;36;1
+200071991;CC Retz en Valois;4392;28935;8;23;3;2;2,38;54;2
+200072007;CC de la Montagne d'Ardèche;892;4822;0;8;1;0;2,06;28;0
+200072015;CA Annonay Rhône Agglo;N/A - secret statistique;48938;5;47;6;5;1,03;29;1
+200072023;CC Coeur de Charente;4017;21970;3;25;3;0;0,45;51;5
+200072031;CA de la Région de Château-Thierry;8954;54485;12;38;7;6;1,28;87;3
+200072049;CC de Charente Limousine;6993;35272;8;27;7;3;1,41;58;3
+200072056;CC Porte du Jura;1790;10567;1;6;2;1;0,00;22;1
+200072064;CC Val-de-Cher-Controis;9156;47159;9;33;5;2;1,47;33;7
+200072072;CA Territoires Vendômois;9655;52492;15;44;7;4;1,12;65;3
+200072080;CC du Pays de Saint-Eloy;3173;15530;4;14;5;1;1,89;34;2
+200072098;CC Combrailles Sioule et Morge;3497;19475;6;20;2;1;1,57;29;1
+200072106;CC Adour Madiran;4534;24022;4;30;4;2;0,83;72;1
+200072130;CA du Pays de Meaux;15063;108278;27;47;12;7;0,94;26;0
+200072304;CC Vallée de l'Ubaye - Serre-Ponçon;1313;7639;1;11;1;2;5,18;13;1
+200072312;CA Seine Normandie Agglomération;N/A - secret statistique;82615;15;57;14;6;0,73;61;0
+200072320;CC Val de Gers;1860;9968;2;11;2;1;0,99;45;1
+200072346;CA du Pays de Fontainebleau;10614;69015;18;35;9;7;1,46;26;1
+200072452;CA Fougères Agglomération;9315;55835;3;42;6;4;1,08;29;4
+200072460;CA de Béthune-Bruay, Artois-Lys Romane;N/A - secret statistique;276094;69;164;30;17;0,94;100;6
+200072478;CC Pays d'Opale;3787;25248;4;20;5;2;0,40;23;0
+200072544;CC des Deux Morin;N/A - secret statistique;26590;8;22;3;0;1,51;31;0
+200072635;CC Pyrénées Haut Garonnaises;3081;15541;2;20;4;4;2,57;76;2
+200072643;CC Coeur et Coteaux du Comminges;8511;44192;18;42;9;4;2,72;104;4
+200072650;CC Touraine Vallée de l'Indre;8107;53703;9;25;4;0;0,94;22;4
+200072668;CC Touraine Val de Vienne;4863;24895;5;25;5;0;1,99;40;3
+200072676;CC Maine Saosnois;5052;27546;4;18;6;2;1,79;51;2
+200072684;CC Le Gesnois Bilurien;4794;30258;5;23;2;0;0,97;23;0
+200072692;CC des Vallées de la Braye et de l'Anille;2968;15013;3;14;4;1;2,60;19;2
+200072700;CC Haute Sarthe Alpes Mancelles;4039;22652;0;23;5;0;0,00;38;2
+200072718;CC de la Champagne Conlinoise et du Pays de Sillé;3035;18035;3;22;3;1;0,00;24;2
+200072726;CC Châteaubriant-Derval;7877;44359;3;45;5;4;1,58;26;1
+200072734;CC Estuaire et Sillon;5287;40126;3;22;4;2;1,79;11;1
+200072825;CC Mirebellois et Fontenois;2013;12556;2;8;2;0;0,00;32;0
+200072874;CC Val Briard;4009;28473;7;21;2;2;0,00;21;1
+200072882;CC de Vie et Boulogne;6438;45298;4;30;5;0;1,58;15;3
+200072981;CC Touraine Ouest Val de Loire;5606;33157;7;23;5;0;1,20;28;1
+200072999;CC du Grand Langres;3443;20773;4;20;5;2;3,35;54;1
+200073013;CC Carnelle Pays-de-France;4701;32623;5;15;3;2;0,31;19;1
+200073096;CA Arche Agglo;9288;58331;11;46;6;6;1,04;41;1
+200073104;CC de l'Ile-Rousse - Balagne;1912;10807;1;11;1;2;0,95;22;1
+200073112;CC Sud Sarthe;4138;22655;4;18;3;0;2,18;19;0
+200073120;CC Nebbiu - Conca d'Oro;N/A - secret statistique;7581;1;6;1;0;1,35;15;1
+200073138;CC Pasquale Paoli;995;6110;0;7;1;0;3,27;42;0
+200073146;CC Cagire Garonne Salat;3500;17791;3;29;2;0;0,56;55;1
+200073161;CC Touraine-Est Vallées;5932;40295;10;13;3;0;0,50;10;0
+200073237;CC de Gâtine-Racan;3177;21980;4;19;2;0;1,39;19;1
+200073245;CC du Bassin d'Aubenas;7664;40339;7;33;5;6;1,50;28;3
+200073252;CC de la Castagniccia-Casinca;2173;12653;3;13;1;0;0,00;42;1
+200073260;CC Sud Vendée Littoral;10783;55090;2;49;7;4;1,28;43;3
+200073344;CA Rambouillet Territoires;N/A - secret statistique;79058;20;43;7;3;1,01;36;0
+200073393;CC des Rives du Haut Allier;3459;16542;2;21;5;0;3,56;60;1
+200073401;CC Mézenc-Loire-Meygal;2166;11296;1;15;4;0;0,00;22;0
+200073419;CA du Puy-en-Velay;16786;82539;10;82;16;10;1,45;72;5
+200073427;CC Marches du Velay-Rochebaron;5428;31106;2;20;4;3;1,95;14;2
+200077014;CA Vienne Condrieu;14261;92201;19;47;10;8;0,55;30;3
+200083392;CA Laval Agglomération;18335;114501;21;71;14;10;1,05;34;6
+200084952;CU Le Havre Seine Métropole;44007;265498;70;114;34;21;0,78;54;10
+200085728;CC Brioude Sud Auvergne;N/A - secret statistique;16679;0;15;5;4;1,78;27;0
+200085751;CC Entre Bièvre et Rhône;11904;68691;16;48;8;5;0,88;37;2
+200089456;CA Seine-Eure;17481;103175;28;65;12;6;0,97;60;4
+200090504;CA Coulommiers Pays de Brie;14458;93739;18;61;11;5;0,76;54;1
+200090561;CC Vierzon-Sologne-Berry;7546;38192;10;26;6;5;1,03;16;0
+200090579;CC Terre d'Émeraude Communauté;4253;24567;4;20;5;1;1,21;92;2
+200090751;CA Grand Calais Terres et Mers;16097;98975;15;47;16;10;0,77;14;2
+200093201;Métropole Européenne de Lille;174855;1182250;206;461;142;89;0,54;95;29
+200096634;CC des Hautes Vosges;3741;21124;3;17;3;0;#N/A;14;1
+200096642;CC Gérardmer Hautes Vosges;N/A - secret statistique;14233;3;9;3;4;#N/A;8;1
+200096675;CC Baud Communauté;2861;16088;0;14;2;0;#N/A;6;0
+200096683;CC Centre Morbihan Communauté;4434;26817;1;24;4;2;#N/A;12;1
+200096956;CA Agglomération d'Agen;17114;101169;22;56;10;6;#N/A;44;3
+240100610;CC de la Côtière à Montluel;3308;25039;6;11;3;1;0,81;9;1
+240100750;CA du Pays de Gex;7468;100314;9;42;8;4;1,04;27;3
+240100800;CC de Miribel et du Plateau;3521;24619;3;10;3;2;0,42;6;3
+240100883;CC de la Plaine de l'Ain;N/A - secret statistique;79824;14;50;8;2;1,02;53;6
+240100891;CC du Pays Bellegardien (CCPB);2997;21964;0;17;3;2;1,37;12;0
+240200444;CC de la Thiérache du Centre;4563;26102;5;19;6;2;2,66;68;3
+240200469;CC du Pays de la Serre;N/A - secret statistique;14424;1;14;2;0;1,38;42;2
+240200477;CA GrandSoissons Agglomération;N/A - secret statistique;52890;4;29;10;9;1,53;28;2
+240200493;CC du Pays du Vermandois;5147;31079;5;25;6;2;0,96;54;2
+240200501;CC du Val de l'Aisne;3259;20233;3;16;2;0;0,00;57;0
+240200519;CC du Canton d'Oulchy le Château;848;5600;0;3;0;0;0,00;26;0
+240200576;CC de la Champagne Picarde;3314;20844;3;22;3;0;0,96;46;3
+240200584;CC du Canton de Charly sur Marne;2377;15609;2;11;1;0;1,27;21;1
+240200592;CC du Chemin des Dames;796;5492;0;3;1;0;0,00;30;0
+240200600;CC des Trois Rivières;3700;20889;6;19;4;2;1,89;26;2
+240200634;CC des Portes de la Thiérache;1277;6806;1;8;2;0;0,00;30;2
+240300491;CC du Pays de Lapalisse;1629;8429;2;7;1;0;1,18;14;1
+240300558;CC du Pays de Tronçais;1717;7469;3;9;1;0;1,34;15;1
+240300566;CC du Val de Cher;1023;5517;2;8;1;0;0,00;7;0
+240300657;CC du Pays d'Huriel;1434;7382;2;10;1;0;2,67;14;1
+240400440;CC Pays Forcalquier et Montagne de Lure;1970;9985;2;9;1;0;2,02;13;1
+240500439;CC du Briançonnais;3332;19117;3;16;2;2;3,58;13;1
+240500462;CC du Pays des Ecrins;1114;6543;3;8;1;0;4,53;8;2
+240600551;CA de la Riviera Française;11906;73935;14;32;9;5;1,49;15;3
+240600585;CA de Sophia Antipolis;N/A - secret statistique;180750;37;52;17;7;0,85;24;3
+240600593;CC du Pays des Paillons;3545;21470;3;14;2;0;0,00;11;0
+240700302;CC du Pays Beaume-Drobie;N/A - secret statistique;9060;0;10;1;0;3,38;19;1
+240700617;CC Val de Ligne;1106;6115;0;8;3;1;0,00;11;1
+240700716;CC du Val d'Ay;990;5949;0;9;1;0;5,04;8;0
+240700815;CC Berg et Coiron;1245;7916;0;8;1;0;1,29;13;1
+240700864;CC du Rhône aux Gorges de l'Ardèche;3188;18911;4;14;2;2;0,53;9;2
+240800821;CC Ardenne, Rives de Meuse;N/A - secret statistique;25969;6;15;5;3;1,88;19;1
+240800847;CC des Portes du Luxembourg;3352;19783;2;14;3;0;1,00;50;4
+240800862;CC des Crêtes Préardennaises;3378;21760;3;16;2;0;0,00;94;1
+240800920;CC de l'Argonne Ardennaise;2967;16957;0;8;3;2;0,58;95;3
+240900431;CC du Pays de Tarascon;1583;8412;1;12;1;0;2,39;20;1
+240900464;CC du Pays d'Olmes;N/A - secret statistique;14818;3;9;3;1;3,35;24;1
+241000223;CC Forêts, Lacs, Terres en Champagne;1055;6884;4;6;1;0;0,00;15;1
+241000405;CC de la Région de Bar sur Aube;2044;10744;2;14;2;2;2,71;27;1
+241000447;CC du Pays d'Othe;N/A - secret statistique;7737;1;4;1;0;1,28;14;1
+241000488;CC de l'Orvin et de l'Ardusson;1379;8438;1;7;2;0;0,00;25;1
+241100593;CA Le Grand Narbonne;25848;131649;29;56;11;5;1,15;37;6
+241200187;CA Rodez Agglomération;10589;56218;5;31;8;8;1,61;8;3
+241200542;CC du Réquistanais;1120;5264;0;7;2;0;3,76;11;1
+241200567;CC de Millau Grands Causses;5763;28973;0;21;4;4;1,35;15;4
+241200625;CC du Pays Rignacois;914;5639;0;8;2;0;1,79;8;0
+241200641;CC Conques-Marcillac;2073;12067;0;14;2;0;2,50;12;1
+241200658;CC du Pays de Salars;1254;7936;2;10;1;0;2,53;9;1
+241200674;CC du Plateau de Montbazens;1131;6161;0;11;0;0;0,00;13;0
+241200765;CC de Lévézou Pareloup;1013;5312;0;11;1;0;1,87;10;1
+241200807;CC Aveyron Bas Ségala Viaur;1218;5544;1;7;2;0;1,80;7;0
+241200906;CC Larzac et Vallées;978;6627;1;8;0;0;1,65;16;1
+241200914;CC de la Muse et des Raspes du Tarn;920;5479;1;8;0;0;0,00;13;0
+241300375;CC Vallée des Baux-Alpilles (CC VBA);4935;27762;8;11;1;0;3,59;10;2
+241300417;CA d'Arles-Crau-Camargue-Montagnette;15652;83698;24;40;10;7;2,03;6;2
+241400415;CC Coeur Côte Fleurie;4862;20605;0;9;4;3;3,39;12;1
+241400514;CC du Pays de Falaise;4305;27565;2;18;4;2;1,44;58;0
+241400555;CC de Bayeux Intercom;6521;29775;0;16;4;4;1,00;36;1
+241400860;CC Coeur de Nacre;4782;23864;2;10;4;3;2,10;12;0
+241400878;CC Terre d'Auge;2999;19404;1;9;1;0;1,57;44;1
+241500230;CA du Bassin d'Aurillac;11475;53538;3;33;9;9;1,13;25;2
+241500255;CC du Pays Gentiane;1507;6647;0;8;3;0;1,48;17;2
+241500271;CC du Pays de Mauriac;1516;6603;0;8;2;2;1,49;11;0
+241501055;CC Sumène - Artense;1738;8271;0;9;1;0;2,38;16;0
+241501089;CC Cère et Goul en Carladès;1024;4935;2;4;1;0;0,00;11;1
+241501139;CC du Pays de Salers;2005;8401;0;10;2;0;0,00;27;1
+241600303;CC du Rouillacais;1587;9893;1;10;1;0;1,00;13;1
+241700434;CA de La Rochelle;32067;175608;37;61;15;11;1,28;28;2
+241700459;CC de l'Ile de Ré;3509;17503;5;10;1;0;2,31;10;0
+241700517;CC Coeur de Saintonge;2900;17468;4;15;2;1;0,58;18;1
+241700624;CC de l'Ile d'Oléron;4735;22076;5;9;2;1;2,26;8;3
+241700632;CC de Gémozac et de la Saintonge Viticole;2681;14617;1;11;1;0;0,00;16;0
+241700640;CA Royan Atlantique;20302;84382;13;35;8;2;1,32;33;2
+241700699;CC du Bassin de Marennes;3030;15505;3;6;1;2;0,65;6;0
+241800374;CC la Septaine;1364;10779;4;11;1;0;1,86;15;1
+241800424;CC le Dunois;1317;7290;1;8;1;0;1,33;17;0
+241800432;CC les Trois Provinces;N/A - secret statistique;5031;2;7;1;0;3,89;11;1
+241800457;CC FerCher;2127;11456;6;5;1;0;0,87;9;1
+241800507;CA Bourges Plus;17360;102434;28;44;16;11;1,36;17;4
+241900133;CC de Ventadour - Egletons - Monédières;N/A - secret statistique;10113;2;10;1;2;4,92;19;1
+241927201;CA Tulle Agglo;9039;44194;6;36;5;2;1,35;43;5
+241927243;CC du Pays d'Uzerche;1763;9879;0;10;1;0;3,06;12;0
+242000354;CA de Bastia;9418;62237;12;21;5;6;1,13;5;1
+242000495;CC de l'Alta Rocca;1298;8523;1;9;1;0;2,36;18;1
+242000503;CC Celavu-Prunelli;1457;9117;3;9;0;0;0,00;10;1
+242010056;CA du Pays Ajaccien;13500;89990;19;26;7;6;1,14;10;1
+242010130;CC du Sartenais Valinco Taravo;1851;11744;3;7;2;2;2,61;18;0
+242020071;CC du Centre Corse;N/A - secret statistique;9868;2;6;1;1;3,05;10;0
+242020105;CC de Calvi Balagne;2047;12641;4;10;1;0;0,00;14;1
+242100154;CC des Vallées de la Tille et de l'Ignon;2047;13702;6;14;1;0;0,00;23;1
+242100410;Dijon Métropole;37647;256758;76;89;29;22;0,95;23;1
+242101434;CC du Pays Châtillonnais;3943;19519;7;17;5;4;1,52;107;0
+242101442;CC de Saulieu;1133;5278;1;4;1;0;3,77;12;1
+242101459;CC du Pays d'Alésia et de la Seine;1215;7407;3;6;1;0;2,67;24;0
+242101491;CC du Montbardois;2043;10330;4;9;1;1;4,72;33;1
+242101509;CC Rives de Saône;3517;20439;7;18;3;0;0,00;38;2
+242200715;CC du Kreiz-Breizh (CCKB);3819;18170;0;21;4;2;1,09;23;0
+242300135;CC du Pays Sostranien;2437;10380;3;7;1;1;1,88;10;1
+242320000;CC de Bénévent Grand Bourg;1567;6817;1;5;1;0;0,00;16;0
+242320109;CC du Pays Dunois;1594;6933;2;8;1;0;0,00;17;1
+242400752;CC Périgord-Limousin;2975;14030;2;15;3;1;2,12;22;3
+242400935;CC du Pays de Saint Aulaye;1533;6678;2;4;2;0;3,00;6;1
+242401024;CC Isle-Loue-Auvézère en Périgord;2926;13626;1;12;3;2;1,46;28;1
+242500320;CC de Montbenoit;921;8102;0;8;0;0;0,00;16;1
+242500338;CC du Grand Pontarlier;3882;28131;7;15;6;5;1,09;10;3
+242500361;CU Grand Besançon Métropole;29173;196278;44;82;21;16;1,13;68;5
+242504116;CC du Val de Morteau;2848;20949;7;9;2;2;0,96;8;1
+242504181;CC des Portes du Haut-Doubs;3435;26617;6;22;4;0;1,15;47;2
+242504355;CC du Plateau de Russey;736;6787;0;7;3;0;2,99;17;0
+242504371;CC du Pays de Sancey-Belleherbe;877;5491;1;6;2;0;1,81;27;0
+242504447;CC du Doubs Baumois;2561;16035;5;15;3;1;0,63;58;2
+242504488;CC Altitude 800;896;6557;1;8;1;0;3,13;11;2
+242504496;CC du Plateau de Frasne et du Val de Drugeon (CFD);737;6210;2;4;1;0;1,66;10;0
+242600252;CC du Val de Drôme en Biovallée;4875;30632;7;26;2;0;0,33;29;1
+242600492;CC Dieulefit-Bourdeaux;1607;9556;2;8;1;0;2,11;21;1
+242600534;CC du Diois;2212;11845;1;18;1;1;5,13;50;1
+242700276;CC du Pays de Conches;3162;18411;3;19;1;0;1,08;25;1
+242700607;CC du Pays du Neubourg;3538;22555;3;26;2;0;0,44;41;0
+242852465;CC du Bonnevalais;2217;12199;1;7;1;0;0,81;19;1
+242900074;CC du Pays d'Iroise;7711;49096;1;30;5;0;1,24;19;3
+242900314;Brest Métropole;33067;211156;8;80;31;18;1,00;8;0
+242900553;CC du Pays des Abers;6132;41552;0;24;4;0;0,73;13;0
+242900561;CC de Haute Cornouaille;2987;14891;0;13;2;0;1,34;11;2
+242900629;CC Cap Sizun - Pointe du Raz;3269;15271;0;11;2;0;1,96;10;1
+242900645;CC Douarnenez Communauté;3413;18164;1;11;2;3;2,19;5;0
+242900660;CC du Pays Fouesnantais;5443;28859;3;13;2;0;0,36;7;0
+242900694;CA Quimperlé Communauté;9790;56069;6;32;8;4;1,25;16;5
+242900702;CC du Pays Bigouden Sud;6813;37694;4;22;5;4;1,34;12;1
+242900710;CC du Haut Pays Bigouden;3015;18450;1;12;2;0;0,55;10;3
+242900744;CC Poher Communauté;2962;15317;3;13;2;3;1,30;11;1
+242900751;CC du Pays de Landivisiau;4981;33303;2;24;3;2;0,91;19;1
+242900769;CA Concarneau Cornouaille Agglomération;10341;51442;8;27;8;4;1,38;9;3
+242900793;CC Communauté Lesneven Côte des Légendes;4837;27425;1;19;2;1;1,09;14;2
+242900801;CA du Pays de Landerneau-Daoulas;6954;49277;2;34;4;4;0,62;22;2
+242900835;CA Morlaix Communauté;12400;64524;5;47;12;4;1,40;26;4
+243000270;CC du Pays Viganais;N/A - secret statistique;9926;3;12;2;2;3,00;21;1
+243000296;CC du Pays de Sommières;3758;24107;4;15;3;2;0,84;18;1
+243000569;CC Rhony, Vistre, Vidourle;4256;27765;7;11;3;0;1,11;10;1
+243000585;CC Beaucaire Terre d'Argence;5295;31143;7;14;5;2;0,97;5;0
+243000593;CC de Petite Camargue;4770;27331;7;13;1;0;1,11;5;1
+243000643;CA de Nîmes Métropole;43159;257570;70;101;25;18;0,93;39;12
+243000650;CC Terre de Camargue;4673;20596;4;4;2;0;1,96;3;1
+243000684;CC du Pont du Gard;4061;25345;6;17;2;0;0,39;16;1
+243100518;Toulouse Métropole;100676;806503;153;205;83;59;0,97;37;17
+243100567;CC Lauragais Revel Sorezois;4109;21653;1;14;3;2;0,93;28;0
+243100633;CA du Sicoval;10674;81269;18;41;4;0;0,88;36;0
+243100732;CC des Coteaux du Girou;2957;22269;6;13;2;0;1,40;18;0
+243100773;CC Val'Aïgo;2841;18218;4;10;2;0;0,57;9;1
+243100781;CC Le Grand Ouest Toulousain;5636;41897;9;12;4;1;1,22;7;0
+243100815;CC des Coteaux Bellevue;2917;20899;5;7;1;0;0,99;7;1
+243200391;CC de la Lomagne Gersoise;3606;19135;4;15;5;3;2,61;43;1
+243200409;CC du Bas Armagnac;N/A - secret statistique;8599;6;8;2;2;1,17;26;1
+243200417;CC de la Tenarèze;N/A - secret statistique;14419;5;11;2;1;2,06;26;0
+243200425;CC Coeur d'Astarac en Gascogne;1518;7690;1;6;2;2;2,60;19;1
+243200458;CC du Grand Armagnac;2911;13357;3;9;2;0;3,77;25;0
+243200508;CC Bastides et Vallons du Gers;1601;6993;1;3;2;0;5,62;30;0
+243200599;CC du Saves;1630;9730;2;10;2;1;1,04;32;1
+243200607;CC Artagnan de Fezensac;1400;7012;1;4;1;0;1,42;25;1
+243300316;Bordeaux Métropole;123572;819604;175;217;79;62;0,75;28;2
+243300563;CA Bassin d'Arcachon Sud (COBAS);14348;68175;9;17;6;5;0,59;4;0
+243300811;CC de l'Estuaire;3287;15767;6;13;1;0;1,90;14;1
+243301165;CC Jalle-Eau-Bourde;5124;32035;8;10;2;0;0,95;3;0
+243301181;CC Latitude Nord Gironde;3459;21103;1;11;2;0;0,98;12;1
+243301215;CC du Créonnais;3180;18096;3;11;1;0;1,15;15;1
+243301223;CC du Grand Cubzaguais;5660;36948;4;20;5;3;1,12;16;1
+243301249;CC Les rives de la Laurence;4935;28559;7;7;2;0;1,45;6;0
+243301264;CC de Montesquieu;6510;46038;8;17;4;1;0,68;13;0
+243301355;CC les Coteaux Bordelais;3398;21207;4;8;1;0;1,00;8;1
+243301371;CC du Pays Foyen;2967;16623;3;10;3;2;1,80;20;0
+243301389;CC Médullienne;3396;22016;3;10;1;0;1,39;10;0
+243301397;CC du Fronsadais;2764;17452;2;15;1;0;0,58;18;0
+243301405;CC du Val de l'Eyre;3292;21206;4;11;1;0;0,49;5;0
+243301439;CC des Portes de l'Entre-Deux-Mers;3323;21971;3;12;1;1;0,47;11;2
+243301447;CC Médoc Estuaire;4549;29964;5;12;1;0;1,04;10;2
+243301454;CC Castillon/Pujols;N/A - secret statistique;19014;6;17;3;0;1,05;31;1
+243301504;CA du Bassin d'Arcachon Nord;13521;70808;9;18;6;1;0,88;8;0
+243400017;Montpellier Méditerranée Métropole;67838;499761;89;140;45;27;0,83;31;4
+243400355;CC du Clermontais;4711;28410;4;16;3;2;0,72;21;1
+243400470;CA du Pays de l'Or;9300;45099;11;15;3;2;0,90;8;1
+243400488;CC la Domitienne;5201;28852;5;9;2;0;0,71;8;0
+243400520;CC du Pays de Lunel;8597;51191;10;22;6;4;0,99;14;2
+243400694;CC Vallée de l'Hérault;5854;41070;8;24;4;2;0,25;28;1
+243400736;CC des Cévennes Gangeoises et Suménoises;2459;13156;0;7;2;0;0,76;13;0
+243400769;CA de Béziers-Méditerranée;25101;127786;22;44;13;9;1,11;17;3
+243400819;CA Hérault-Méditerranée;16732;80165;14;32;9;4;1,13;20;3
+243500139;Rennes Métropole;58414;462580;65;147;46;32;0,93;43;12
+243500550;CC Montfort Communauté;3272;26134;5;12;2;1;1,16;8;3
+243500618;CC Brocéliande Communauté;2508;18981;2;13;2;0;1,08;8;1
+243500634;CC Roche aux Fées Communauté;3990;26834;2;19;4;0;1,89;16;2
+243500659;CC Pays de Châteaugiron Communauté;3381;27347;2;12;3;0;1,13;5;0
+243500667;CC Val d'Ille-Aubigné;4516;38080;4;23;4;0;0,54;19;0
+243500725;CC Côte d'Emeraude;5662;28169;4;15;2;2;1,28;9;1
+243500733;CC Bretagne Romantique;5123;35872;1;25;5;2;1,98;25;2
+243500741;CA Redon Agglomération;11485;66727;0;51;10;7;0,75;31;6
+243500774;CC Liffré-Cormier Communauté;3222;27058;2;16;4;1;1,52;9;2
+243500782;CA du Pays de Saint Malo Agglomération;15517;85342;11;44;10;7;1,31;18;0
+243600202;CC Chabris - Pays de Bazelle;1302;6167;2;6;1;0;3,21;10;1
+243600236;CC du Pays d'Issoudun;3866;19311;5;13;4;4;3,03;12;0
+243600293;CC Levroux Boischaut Champagne;N/A - secret statistique;6273;2;6;1;0;1,58;10;0
+243600301;CC Val de l'Indre - Brenne;2466;13464;3;12;2;0;2,21;12;2
+243600319;CC Brenne - Val de Creuse;3388;17655;3;16;4;2;2,23;28;1
+243600327;CA Châteauroux Métropole;14430;73022;22;34;11;8;1,23;14;3
+243600343;CC Coeur de Brenne;1015;4697;2;4;0;0;4,24;11;2
+243600350;CC de la Châtre et Sainte-Sévère;N/A - secret statistique;16208;3;19;3;2;1,83;30;1
+243700499;CC du Castelrenaudais;2659;16532;3;15;2;1;1,20;16;1
+243700754;Tours Métropole Val de Loire;45948;298041;55;94;42;24;0,78;22;2
+243700820;CC Autour de Chenonceaux Bléré-Val de Cher;3603;21555;6;13;1;0;0,47;15;3
+243800604;CA Porte de l'Isère (CAPI);16038;109717;22;56;13;9;0,65;22;5
+243800745;CC de l'Oisans;1307;10658;3;10;1;0;7,50;19;2
+243800935;CC Lyon-Saint-Exupéry en Dauphiné;4212;29311;5;12;3;2;0,70;6;1
+243800984;CA du Pays Voironnais;15597;94501;19;49;14;9;1,07;31;5
+243801024;CC du Massif du Vercors;1638;11926;4;7;1;1;3,38;6;1
+243801073;CC de Bièvre Est;3736;22700;4;17;1;0;0,00;14;3
+243801255;CC Collines Isère Nord Communauté;3554;25130;6;13;2;0;0,40;10;0
+243900354;CC de la Station des Rousses-Haut Jura;731;7162;1;5;1;0;2,81;4;1
+243900420;CC du Val d'Amour;N/A - secret statistique;9056;0;10;1;3;1,10;24;1
+243900479;CC Haut-Jura Arcade Communauté;1293;9150;2;6;2;2;2,16;4;1
+243900560;CC Jura Nord;1786;11739;1;12;1;0;0,00;32;1
+243900610;CC la Grandvallière;795;5415;3;6;1;0;0,00;8;0
+243901089;CC de la Plaine Jurassienne;N/A - secret statistique;9153;3;9;1;0;1,09;21;0
+244000543;CC de Mimizan;2911;12636;1;8;1;0;2,42;6;1
+244000659;CC du Seignanx;5303;28770;7;12;3;1;0,36;8;0
+244000675;CA du Grand Dax;11198;56850;8;25;7;6;0,54;20;2
+244000691;CC du Pays Morcenais;2073;9370;3;10;2;1;3,20;6;1
+244000766;CC du Pays Tarusate;3334;17827;4;14;3;0;2,26;17;1
+244000774;CC du Pays de Villeneuve en Armagnac Landais;1083;6249;1;9;1;0;0,00;12;0
+244000808;CA Mont de Marsan Agglomération;10153;54172;11;25;8;7;1,31;18;1
+244000824;CC du Pays Grenadois;1290;7689;2;9;1;0;1,31;11;1
+244000857;CC Côte Landes Nature;2706;12235;0;7;1;0;4,19;10;1
+244000865;CC Maremne Adour Côte Sud;13106;69473;5;28;8;2;1,19;23;1
+244000873;CC des Grands Lacs;5936;30562;5;10;4;2;1,68;7;0
+244000881;CC Coteaux et Vallées des Luys;1586;7639;3;10;1;0;0,00;16;1
+244100293;CC des Collines du Perche;1158;5986;1;6;1;0;3,31;12;1
+244100780;CC de la Sologne des Etangs;1627;8632;1;11;1;0;2,30;12;0
+244100798;CC du Grand Chambord;N/A - secret statistique;20659;7;16;2;0;0,00;16;0
+244100806;CC de la Sologne des Rivières;2160;10489;1;8;2;0;0,00;7;0
+244200614;CC des Vals d'Aix et Isable;1108;5881;1;7;1;0;5,05;12;0
+244200622;CC des Monts du Pilat;2417;15430;2;17;3;0;1,97;16;1
+244200630;CC du Pays Entre Loire et Rhône;2141;14082;0;17;1;0;0,00;16;2
+244200770;Saint-Etienne Métropole;69208;406868;63;196;55;41;0,69;53;8
+244200820;CC du Pays d'Urfé;1083;5161;1;8;2;0;0,00;11;1
+244200895;CC du Pilat Rhodanien;2541;16859;0;17;2;0;0,60;14;4
+244300307;CC du Pays de Montfaucon;1444;8018;0;10;1;0;1,23;8;2
+244301016;CC des Sucs;3066;18202;1;15;4;3;2,22;9;0
+244301099;CC Auzon Communauté;1899;9366;3;10;2;0;1,07;12;1
+244301107;CC du Haut Lignon;1544;8059;1;6;3;0;6,17;6;1
+244301123;CC des Pays de Cayres et de Pradelles;1016;5159;0;7;1;0;1,92;20;0
+244301131;CC Loire et Semène;3401;20523;3;13;4;0;1,46;7;3
+244400404;Nantes Métropole;90166;672420;105;210;78;57;0,67;24;8
+244400438;CC Grand Lieu Communauté;5648;40900;4;19;3;0;0,76;9;1
+244400453;CC Pays de Blain communauté;2509;16545;1;11;2;1;1,23;4;1
+244400503;CC d'Erdre et Gesvres;8437;65977;5;28;5;3;1,26;12;0
+244400537;CC de Nozay;2428;16149;0;13;2;0;1,88;7;1
+244400552;CC du Pays d'Ancenis;9902;68327;4;49;10;4;1,63;20;0
+244400586;CC du Sud Estuaire;5450;30691;2;14;5;1;0,99;6;1
+244400610;CA de la Presqu'île de Guérande Atlantique (CAP ATLANTIQUE);16303;75716;6;39;8;4;1,74;15;2
+244400644;CA de la Région Nazairienne et de l'Estuaire (CARENE);23590;128857;15;50;14;11;1,03;10;6
+244500203;CA Montargoise et Rives du Loing (AME);11211;62408;10;27;9;8;0,64;15;0
+244500211;CC Giennoises;4532;24025;2;15;5;4;0,82;11;1
+244500419;CC des Quatre Vallées;3271;17195;2;12;1;0;1,74;19;0
+244500427;CC des Loges;6480;43016;9;20;3;0;0,47;20;2
+244500468;Orléans Métropole;43705;290346;71;95;36;22;0,66;22;8
+244500484;CC de la Forêt;2425;17375;4;9;2;0;0,59;10;0
+244500542;CC de la Plaine du Nord Loiret;N/A - secret statistique;6847;1;5;1;0;0,00;15;0
+244600433;CC de la Vallée du Lot et du Vignoble;2963;14456;3;11;3;0;3,44;27;1
+244600482;CC Quercy - Bouriane;2322;10028;4;8;2;2;0,99;20;0
+244600532;CC du Pays de Lalbenque-Limogne;1636;8626;3;8;1;0;0,00;23;1
+244600573;CC du Causse de Labastide Murat;781;3920;1;3;0;0;2,56;17;1
+244700449;CC du Pays de Duras;N/A - secret statistique;5736;1;8;1;0;0,00;17;1
+244700464;CC du Pays de Lauzun;2170;10324;0;10;1;0;0,00;20;0
+244701355;CC des Coteaux et Landes de Gascogne;2557;12418;3;13;2;0;2,42;27;1
+244701405;CC Lot et Tolzac;1286;7360;3;5;1;0;1,37;15;0
+244800405;CC Coeur de Lozère;3310;15659;3;12;4;5;3,22;7;1
+244800470;CC du Gévaudan;N/A - secret statistique;9647;0;9;2;2;1,04;12;1
+244900015;CU Angers Loire Métropole;45273;303535;39;135;35;23;1,07;29;6
+244900809;CC Anjou Bleu Communauté;5362;34615;4;43;8;5;1,16;11;3
+244900882;CC Baugeois Vallée;5653;34966;4;31;4;0;1,70;7;2
+245100615;CC de la Grande Vallée de la Marne;2391;14407;6;11;1;0;2,04;14;0
+245100888;CC de la Brie Champenoise;1290;7580;1;5;2;0;1,32;20;1
+245100979;CC du Sud Marnais;1014;5813;3;4;1;0;0,00;14;0
+245200597;CC des Trois Forêts;1387;7440;2;7;1;0;0,00;29;0
+245300223;CC du Pays de Meslay-Grez;2158;13782;1;21;3;0;1,44;22;1
+245300355;CC de l'Ernée;3401;20624;3;19;3;0;2,39;15;0
+245300389;CC du Bocage Mayennais;3681;18540;1;19;4;0;1,60;27;1
+245300447;CC du Pays de Château-Gontier;4402;30189;4;24;4;3;2,31;16;2
+245400171;CC Moselle et Madon;N/A - secret statistique;28330;9;18;4;3;0,70;19;2
+245400189;CC des Pays du Sel et du Vermois;5257;29012;7;12;4;1;0,34;16;2
+245400262;CA Grand Longwy Agglomération;9199;62931;14;33;10;6;0,81;21;2
+245400510;CC du Pays de Colombey et du Sud Toulois;1720;11261;0;10;1;0;0,88;38;3
+245400601;CC du Bassin de Pompey;7050;39939;15;19;5;1;1,49;13;0
+245400676;Métropole du Grand Nancy;36857;256928;67;83;35;25;0,97;20;3
+245400759;CC du Pays du Sanon;990;5859;1;5;1;0;3,37;28;1
+245500327;CC du Sammiellois;N/A - secret statistique;8430;0;6;1;0;3,51;19;1
+245501176;CC du Territoire de Fresnes en Woëvre;787;4763;1;1;1;0;0,00;32;1
+245501184;CC du Pays de Revigny sur Ornain;1345;7089;0;6;1;0;1,39;16;1
+245501242;CC du Pays d'Etain;1164;7519;2;3;1;0;0,00;26;1
+245501259;CC du Pays de Montmédy;976;6964;1;4;1;0;2,84;25;1
+245600440;CC Blavet Bellevue Océan;2867;18317;2;12;0;0;0,55;5;1
+245600465;CC de Belle Ile en Mer;1010;5528;0;5;2;0;3,67;4;1
+245614383;CC Questembert Communauté;4380;24015;1;20;4;2;1,69;13;2
+245614417;CC Roi Morvan Communauté;5238;24533;1;29;7;3;2,03;21;4
+245614433;CC Pontivy Communauté;8005;46475;0;42;6;4;1,08;24;6
+245700133;CC du District Urbain de Faulquemont (DUF);N/A - secret statistique;24225;10;22;3;0;0,41;33;0
+245700372;CA de Forbach Porte de France;11424;76391;12;34;8;7;1,04;21;0
+245700398;CC de Freyming-Merlebach;4726;31532;14;17;4;2;1,26;11;0
+245700695;CC de Cattenom et Environs;3477;27409;10;22;2;0;0,77;22;0
+245700950;CC du Pays de Phalsbourg;3198;17321;4;20;2;2;1,72;26;1
+245701164;CC du Warndt;2889;17716;1;9;3;2;0,56;5;1
+245701206;CC du Saulnois;5374;28365;11;34;6;3;2,77;128;1
+245701222;CA du Val de Fensch;12804;71066;24;25;9;5;0,57;10;0
+245701271;CC du Pays Orne Moselle;10370;52936;17;22;7;2;0,56;12;0
+245701354;CC de l'Arc Mosellan;5636;35242;9;18;2;0;0,29;26;1
+245701362;CA Portes de France-Thionville;13937;82041;16;32;9;9;1,25;13;0
+245701404;CC du Pays Haut Val d'Alzette;3991;29402;7;14;4;1;1,39;8;0
+245801063;CC Loire et Allier;1300;7223;0;5;0;0;0,00;6;1
+245804406;CA de Nevers;13585;64617;12;32;10;7;0,76;13;2
+245804497;CC du Nivernais Bourbonnais;998;5270;1;4;1;0;0,00;9;0
+245900428;CU de Dunkerque;33216;192635;53;88;31;16;1,23;17;2
+245900758;CC Flandre Lys;6651;39993;4;18;7;2;0,76;8;7
+245901038;CC du Pays Solesmois;2403;14678;2;11;2;1;0,00;15;1
+245901152;CC Coeur d'Ostrevent (CCCO);10802;71494;19;37;9;6;0,70;20;2
+245901160;CA Valenciennes Métropole;31704;191916;46;85;25;14;0,99;35;4
+246000129;CC du Liancourtois;3621;23934;7;13;2;0;0,84;10;1
+246000376;CC du Clermontois;N/A - secret statistique;37467;12;26;5;2;0,80;18;1
+246000566;CC du Plateau Picard;4512;30041;8;30;2;0;0,33;52;2
+246000582;CC des Sablons;5336;38428;10;25;5;2;0,78;20;0
+246000707;CC du Vexin-Thelle;2826;20519;3;22;2;0;1,47;37;0
+246000749;CC des Lisières de l'Oise;2597;16164;6;15;2;1;0,62;20;0
+246000756;CC du Pays Noyonnais;N/A - secret statistique;32519;12;37;5;2;1,53;42;1
+246000764;CC de l'Aire Cantilienne;6562;44588;10;21;5;4;1,33;11;2
+246000772;CC des Deux Vallées;3690;22644;4;20;3;1;0,44;16;0
+246000848;CC de la Picardie Verte;5338;32391;9;42;4;1;0,00;88;1
+246000855;CC du Pays des Sources;N/A - secret statistique;22096;7;28;2;0;0,45;48;0
+246000871;CC du Pays de Valois;8380;55425;19;50;5;2;0,72;62;2
+246000897;CC de la Plaine d'Estrées;2700;18227;6;14;1;0;0,00;19;0
+246000913;CC du Pays de Bray;2896;18248;4;17;1;0;0,00;23;0
+246000921;CC des Pays d'Oise et d'Halatte;5402;34267;10;23;4;2;0,88;17;1
+246100390;CC du Val d'Orne;N/A - secret statistique;5657;0;4;3;1;0,00;17;1
+246100663;CU d'Alençon;10907;55816;0;36;9;6;1,07;31;2
+246200299;CA d'Hénin-Carvin;20883;126895;35;50;16;6;0,47;14;2
+246200364;CA de Lens - Liévin;39877;242238;78;98;30;17;0,79;36;4
+246200380;CC de la Terre des Deux Caps;3565;22288;4;20;3;1;0,00;21;1
+246200729;CA du Boulonnais;19776;112077;31;49;14;10;0,80;22;3
+246200844;CC de la Région d'Audruicq;4019;28012;3;18;2;0;0,00;15;0
+246201016;CC du Pays de Lumbres;3412;24172;7;30;3;1;0,41;36;1
+246300701;Clermont Auvergne Métropole;50013;295821;66;79;35;23;0,71;21;7
+246300966;CC du Massif du Sancy;N/A - secret statistique;9638;1;13;2;0;6,22;20;1
+246301097;CC Entre Dore et Allier;3440;19382;3;13;1;0;1,57;14;1
+246400337;CC de la Vallée d'Ossau;1752;9688;2;11;2;0;7,24;18;1
+246401756;CC Pays de Nay;N/A - secret statistique;28901;4;29;3;5;0,70;29;1
+246500482;CC de la Haute-Bigorre;2992;16538;5;16;3;2;3,61;25;1
+246500573;CC Aure Louron;926;6906;1;8;1;0;5,78;46;2
+246600282;CC Sud-Roussillon;5314;24156;7;8;2;2;0,42;6;0
+246600373;CC du Vallespir;N/A - secret statistique;20376;6;7;2;2;2,44;10;0
+246600399;CC Pyrénées Cerdagne;1261;8725;1;13;1;0;4,63;19;1
+246600415;CC Roussillon-Conflent;3451;18608;4;11;2;0;0,54;16;2
+246600423;CC Agly Fenouillèdes;1356;6344;1;7;1;0;3,12;24;2
+246600449;CC des Aspres;N/A - secret statistique;22446;4;14;1;0;0,46;19;0
+246600464;CC Pyrénées Catalanes;792;5887;1;6;2;2;6,70;19;2
+246600548;CC du Haut Vallespir;2438;9830;1;6;1;0;4,13;14;1
+246700306;CC de la Vallée de la Bruche;N/A - secret statistique;20588;2;21;2;1;1,44;26;1
+246700488;Eurométropole de Strasbourg;84850;511552;103;124;53;36;0,76;33;5
+246700744;CC des Portes de Rosheim;3366;18170;4;9;1;0;0,55;9;0
+246700777;CC de la Vallée de Villé;1990;10686;1;15;1;0;0,93;18;0
+246700843;CC de la Basse-Zorn;3308;17630;5;6;1;0;0,00;7;0
+246700926;CC du Pays de Wissembourg;3199;15710;3;14;2;2;1,89;12;0
+246700959;CC du Pays de la Zorn;2956;16177;3;11;1;0;0,00;20;0
+246700967;CC de Sélestat;6618;36969;11;14;5;4;1,09;12;0
+246701064;CC de la Région de Molsheim-Mutzig;7413;40693;10;21;6;4;1,24;18;0
+246701080;CC du Pays de Sainte-Odile;3690;19157;4;8;3;2;1,63;6;0
+246701098;CC du Pays de Niederbronn-les-Bains;5027;23395;3;13;3;0;2,57;13;1
+246800205;CC de la Vallée de Saint-Amarin;2598;12212;2;11;1;0;2,43;15;0
+246800395;CC du Val d'Argent;1816;9351;3;4;2;2;0,00;4;0
+246800445;CC du Centre du Haut-Rhin;2366;16261;7;10;1;0;0,63;9;0
+246800494;CC du Pays de Rouffach, Vignobles et Châteaux;2062;12852;4;9;2;0;0,76;11;0
+246800551;CC de la Vallée de Kaysersberg;2914;16133;1;9;2;0;4,27;8;2
+246800569;CC de la Région de Guebwiller;6698;37999;9;18;5;6;1,58;19;0
+246800577;CC du Pays de Ribeauvillé;3072;18241;0;11;2;1;1,64;16;0
+246800585;CC de la Vallée de Munster;2961;16242;4;10;1;1;1,85;16;0
+246800676;CC de la Vallée de la Doller et du Soultzbach;2734;15972;4;16;3;1;1,24;15;0
+246800726;CA Colmar Agglomération;20548;113968;28;39;13;10;0,97;20;1
+246900575;CC de l'Est Lyonnais (CCEL);6056;41971;6;13;4;0;0,48;8;2
+246900625;CC du Pays de l'Arbresle (CCPA);5195;38481;3;23;4;2;0,53;17;0
+246900724;CC des Vallons du Lyonnais (CCVL);4075;31247;3;11;2;0;0,33;8;1
+246900740;CC du Pays Mornantais (COPAMO);3943;29440;6;19;3;0;0,69;11;1
+246900757;CC de la Vallée du Garon (CCVG);4652;32185;5;13;4;1;0,96;5;3
+246900765;CC du Pays de l'Ozon;3833;26903;6;11;3;0;0,76;7;1
+247000011;CA de Vesoul;7114;31979;8;19;5;5;1,86;20;0
+247000367;CC des Combes;N/A - secret statistique;7574;0;6;1;0;2,62;27;1
+247000623;CC des Quatre Rivières;1830;9470;2;8;1;0;3,15;41;1
+247000664;CC du Pays de Lure;N/A - secret statistique;19156;3;13;4;3;2,55;24;1
+247000698;CC des Monts de Gy;993;6145;0;5;2;0;4,88;25;0
+247000706;CC du Pays Riolais;1796;13090;1;9;1;0;0,00;33;1
+247000714;CC du Pays de Villersexel;1476;7797;0;6;2;1;0,00;34;1
+247000722;CC du Pays d'Héricourt;3878;21053;3;17;2;2;0,48;23;1
+247000755;CC du Pays de Luxeuil;N/A - secret statistique;14877;1;13;3;2;2,01;15;2
+247000821;CC Rahin et Chérimont;2077;11724;4;9;1;0;2,53;9;0
+247000854;CC des 1000 étangs;1670;8664;0;8;2;0;1,18;25;1
+247100290;CU Le Creusot Montceau-les-Mines;16818;91612;25;51;12;4;1,18;34;4
+247100589;CA Le Grand Chalon;19144;114258;27;68;13;13;1,32;51;6
+247100639;CC de Marcigny;1211;6043;0;7;1;0;3,26;12;1
+247100647;CC Bresse Nord Intercom';1289;6537;4;6;1;0;3,06;16;0
+247103765;CC Entre Saône et Grosne;N/A - secret statistique;11062;2;14;1;0;0,89;23;0
+247103864;CC de Semur en Brionnais;898;5191;0;6;0;0;1,94;14;0
+247104094;CC Sud Côte Chalonnaise;1850;11514;5;14;2;0;0,87;36;1
+247200090;CC du Pays Sabolien;N/A - secret statistique;28490;0;23;5;4;1,75;17;1
+247200132;CU Le Mans Métropole;35115;209557;47;81;36;18;0,92;19;5
+247200348;CC du Pays Fléchois;4353;27122;2;22;4;3;1,48;14;1
+247200421;CC du Sud Est Manceau;2567;17672;3;6;3;1;1,71;5;0
+247200447;CC Orée de Bercé - Belinois;3112;19419;4;11;2;0;1,54;8;0
+247200629;CC du Val de Sarthe;4651;30389;5;21;2;0;1,97;16;0
+247200686;CC du Pays de l'Huisne Sarthoise;N/A - secret statistique;28514;4;23;3;3;1,05;33;0
+247300015;CC des Vallées d'Aigueblanche;1099;7192;1;10;0;0;1,38;3;1
+247300254;CC de Haute-Tarentaise;1638;15482;5;13;1;1;3,85;8;1
+247300262;CC de Yenne;1148;7352;2;8;1;0;0,00;13;0
+247300361;CC du Canton de La Chambre;1249;7414;0;10;1;0;4,05;12;0
+247300452;CC Maurienne Galibier;844;5420;1;6;1;1;5,53;6;1
+247300528;CC Val Guiers;2042;12278;4;9;1;0;0,82;11;1
+247300668;CC du Lac d'Aiguebelette (CCLA);854;6156;0;7;1;0;0,00;10;0
+247300676;CC Porte de Maurienne;1070;6923;1;7;1;0;1,46;11;1
+247300817;CC Les Versants d'Aime;1104;9699;1;14;1;0;5,18;4;1
+247400047;CC de la Vallée Verte;923;8227;1;8;1;0;2,50;8;0
+247400112;CC du Pays de Cruseilles;1520;16533;1;12;1;0;0,00;13;1
+247400567;CC Fier et Usses;1896;15868;1;11;1;0;2,58;7;0
+247400583;CC Arve et Salève;2310;20255;1;12;1;0;0,00;8;1
+247400617;CC des Vallées de Thônes;2118;18581;2;17;2;1;2,70;12;1
+247400666;CC des Quatre Rivières;2473;19742;1;15;2;1;0,00;11;1
+247400682;CC du Haut-Chablais;1553;12846;2;17;2;0;3,12;15;2
+247400690;CC du Genevois;4397;48578;2;24;6;3;1,06;17;2
+247400724;CC du Pays Rochois;3586;28675;5;15;4;2;0,36;9;0
+247400740;CC Rumilly Terre de Savoie;4370;32618;4;22;4;4;0,63;17;0
+247400773;CC des sources du lac d'Annecy;2541;15254;0;9;1;1;0,00;7;0
+247600505;CC Campagne-de-Caux;2206;15038;3;18;1;0;0,00;22;0
+247600588;CC des Villes Soeurs;7672;36073;5;27;7;3;2,16;28;1
+247600604;CC de Londinières;N/A - secret statistique;5195;2;9;1;0;0,00;16;1
+247600620;CC Yvetot Normandie;4758;26035;5;17;3;3;1,14;19;1
+247600646;CC Caux - Austreberthe;4597;25189;7;16;4;2;0,79;9;1
+247600729;CC Falaises du Talou;N/A - secret statistique;23604;4;24;1;1;0,42;24;0
+247600786;CA de la Région Dieppoise;9580;45775;18;22;8;7;1,30;16;0
+247700032;CC Moret Seine et Loing;6233;39229;13;23;3;2;1,29;18;0
+247700057;CA Melun Val de Seine;22000;134869;41;50;17;12;1,36;20;3
+247700065;CC du Pays de l'Ourcq;2331;17375;6;22;3;2;0,57;22;1
+247700107;CC Pays de Montereau;7181;44861;13;24;6;5;0,46;21;0
+247700339;CA Val d'Europe Agglomération;6349;52768;13;26;7;2;0,98;10;0
+247700594;CA Marne et Gondoire;14049;108133;24;41;11;7;1,22;20;2
+247700644;CC l'Orée de la Brie;4022;28691;5;8;3;2;1,08;4;1
+247700701;CC Brie Nangissienne;4465;28065;7;17;3;2;0,72;20;1
+247800550;CC du Pays Houdanais (CCPH);N/A - secret statistique;29907;7;27;2;0;1,35;36;0
+247800584;CA Versailles Grand Parc (CAVGP);35295;267395;58;79;24;22;0,94;18;1
+247800618;CC Coeur d'Yvelines;6355;50577;13;31;5;4;0,80;31;2
+247900798;CC du Thouarsais;6510;35495;1;28;6;3;1,96;24;4
+248000499;CC du Val de Somme;4373;26744;5;26;3;0;0,75;33;4
+248000531;CA Amiens Métropole;29052;182017;42;87;23;26;1,05;39;5
+248000747;CC du Pays du Coquelicot;4889;28237;7;26;5;3;0,71;65;2
+248100158;CC du Sor et de l'Agout;4000;22985;0;20;2;0;0,00;26;3
+248100430;CA de Castres Mazamet;15080;78503;10;47;17;14;1,28;14;2
+248100497;CC Val 81;N/A - secret statistique;5567;1;5;1;0;0,00;19;0
+248100737;CA de l'Albigeois (C2A);16676;82582;4;34;11;9;1,34;16;3
+248100745;CC Thoré Montagne Noire;1162;5057;0;4;1;0;3,96;9;1
+248200016;CC des Deux Rives;3429;18810;4;18;2;2;1,60;28;1
+248200057;CC du Quercy Caussadais;3932;20355;5;11;3;3;0,99;19;0
+248200065;CC de la Lomagne Tarn-et-Garonnaise;1866;10072;3;10;3;1;2,99;31;1
+248200099;CA Grand Montauban;13431;78933;15;39;8;6;1,54;11;4
+248200107;CC du Quercy Rouergue et des Gorges de l'Aveyron;1521;7717;1;5;1;0;3,90;17;2
+248300394;CA Sud Sainte Baume;N/A - secret statistique;62968;11;17;6;0;1,47;9;3
+248300410;CC de la Vallée du Gapeau;5674;32380;8;10;3;0;0,95;5;0
+248300493;CA Dracénie Provence Verdon Agglomération;20004;108951;19;41;10;6;1,03;23;0
+248300543;Métropole Toulon-Provence-Méditerranée;84107;444634;98;117;44;29;0,68;12;3
+248300550;CC Coeur du Var;7937;44194;10;13;2;0;0,92;11;1
+248400053;CA Ventoux-Comtat-Venaissin (COVE);12509;70930;20;34;8;5;1,29;25;3
+248400160;CC Aygues-Ouvèze en Provence (CCAOP);3100;19937;5;12;1;0;1,02;8;0
+248400236;CC Pays d'Orange en Provence;7636;44587;11;21;6;4;1,79;5;0
+248400251;CA du Grand Avignon (COGA);33806;193914;47;67;25;15;1,40;16;7
+248400285;CC Territoriale Sud-Luberon;4447;25226;3;14;2;0;2,39;16;2
+248400293;CA des Sorgues du Comtat;8788;50385;11;22;8;1;0,60;5;2
+248400319;CC du Pays des Sorgues et des Monts de Vaucluse;6366;33790;7;15;4;2;0,89;5;1
+248400335;CC Vaison Ventoux;3220;16679;2;17;1;1;1,80;19;3
+248500191;CC de l'Ile de Noirmoutier;2157;9182;0;7;2;0;6,45;4;1
+248500258;CC Océan Marais de Monts;4904;19488;2;11;2;0;3,11;5;0
+248500340;CC Pays de Chantonnay;3543;22985;2;23;3;4;1,76;10;0
+248500415;CC du Pays de la Châtaigneraie;2824;15598;0;20;2;0;1,92;18;0
+248500464;CC du Pays de Pouzauges;3522;23179;1;20;2;1;1,29;10;1
+248500530;CC du Pays des Achards;2934;19532;0;18;2;0;0,53;9;1
+248500563;CC Vendée, Sèvre, Autise;2874;16178;1;20;3;0;0,62;15;1
+248500589;CA La Roche sur Yon - Agglomération;16998;98290;20;48;12;10;1,24;13;4
+248500621;CC du Pays des Herbiers;4204;30226;2;15;3;3;1,34;8;1
+248500662;CC du Pays de Mortagne;4117;27953;1;18;4;3;0,36;11;1
+248600413;CA Grand Châtellerault;15875;83569;13;58;12;5;1,66;47;9
+248600447;CC du Pays Loudunais;4696;24350;3;20;4;2;1,64;45;2
+248700189;CC du Pays de Saint Yrieix;2608;12081;1;8;2;2;1,66;9;1
+248719262;CC Gartempe - Saint Pardoux;1038;5099;0;7;1;0;3,87;6;0
+248719288;CC du Val de Vienne;2828;16256;3;8;2;0;2,47;9;1
+248719312;CU Limoges Métropole;36575;207053;42;65;21;19;0,92;20;3
+248719338;CC Briance-Combade;1226;5303;1;6;1;0;3,72;10;0
+248719353;CC des Portes de Vassivière;1169;5674;1;4;1;0;7,10;12;1
+248719361;CC de Noblat;2384;11724;1;12;1;1;2,53;12;0
+248900334;CA du Grand Sénonais;10968;59349;18;39;8;4;0,84;27;1
+248900383;CC de l'Agglomération Migennoise;2620;14888;3;10;2;0;0,00;8;1
+248900524;CC de l'Aillantais en Bourgogne;1646;10250;3;16;1;0;0,00;13;0
+248900664;CC de la Vanne et du Pays d'Othe;1614;8462;3;12;1;0;0,00;22;0
+248900748;CC du Gâtinais en Bourgogne;N/A - secret statistique;17545;3;18;1;0;0,00;26;0
+248900896;CC Yonne Nord;4375;24396;7;17;2;0;0,00;23;0
+248900938;CC du Jovinien;3690;20806;6;21;4;4;1,90;19;0
+249000241;CC du Sud Territoire;N/A - secret statistique;23628;10;23;3;1;1,70;27;2
+249100074;CC du Pays de Limours (CCPL);3523;27026;7;15;2;1;1,87;14;1
+249100157;CC des 2 Vallées;3019;18587;6;14;1;0;0,54;15;0
+249100546;CC du Val d'Essonne (CCVE);8686;61349;19;28;7;4;1,00;21;0
+249100553;CC Entre Juine et Renarde (CCEJR);3976;27615;10;18;2;0;0,73;16;0
+249100595;CC le Dourdannais en Hurepoix (CCDH);3936;26431;7;14;4;2;1,91;11;0
+249500109;CA de Cergy-Pontoise;28957;213763;52;84;24;25;0,71;13;3
+249500430;CC Sausseron Impressionnistes;2695;19172;4;14;1;0;1,56;15;1
+249500455;CC de la Vallée de l'Oise et des Trois Forêts;5703;38783;11;20;5;1;1,03;9;0
+249500489;CC du Haut Val d'Oise;6127;39774;8;20;5;3;0,51;9;1
+249500513;CC du Vexin-Val de Seine;N/A - secret statistique;16709;4;21;3;0;0,00;26;1
+249710047;CC de Marie-Galante;2236;10512;3;5;4;2;1,88;3;0
+249710062;CA du Nord Basse-Terre;13510;77587;18;33;8;5;0,78;6;2
+249710070;CA Grand Sud Caraïbe;17760;76639;25;40;14;10;0,64;11;2
+249720053;CA de l'Espace Sud de la Martinique;20722;114520;18;51;17;9;0,70;12;3
+249720061;CA du Centre de la Martinique;27492;150518;25;63;26;20;0,78;4;1
+249730037;CC de l'Ouest Guyanais;3613;96306;14;53;12;9;0,21;8;1
+249730045;CA du Centre Littoral;14431;151887;23;56;18;15;0,42;6;3
+249730052;CC de l'Est Guyanais;N/A - secret statistique;7307;1;10;2;0;1,41;4;1
+249740077;CA CIVIS (Communauté Intercommunale des Villes Solidaires);28441;180758;32;70;19;14;0,83;6;8
+249740085;CA du Sud;19127;131368;15;60;12;10;0,39;4;3
+249740093;CA Intercommunale de la Réunion Est (CIREST);19511;127537;19;61;15;11;0,79;6;1
+249740101;CA Territoire de la Côte Ouest (TCO);32718;211983;49;99;21;17;0,76;5;4
+249740119;CA Intercommunale du Nord de la Réunion (CINOR);30495;211437;38;75;22;17;0,96;3;5
+977ZZ;Saint-Barthélemy;172;10457;N/A - résultat non disponible;N/A - résultat non disponible;N/A - résultat non disponible;N/A - résultat non disponible;#N/A;#N/A;0
+978ZZ;Saint-Martin;4590;31801;N/A - résultat non disponible;N/A - résultat non disponible;N/A - résultat non disponible;N/A - résultat non disponible;#N/A;#N/A;0
+ZZZZZZZZZ;Communes sans EPCI;994;6345;0;5;2;0;#N/A;4;1

@@ -1,0 +1,126 @@
+@import url(https://fonts.bunny.net/css?family=montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+
+.signinform {
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 0px 10px 10px grey;
+    width: 70%;
+    border-radius: 15px;
+    margin: 5rem auto;
+    height: 100%;
+    background-image: url(../../../../images/logo/login-background-office.jpg);
+    background-size: cover;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    min-height: 550px;
+    padding: 0 1rem;
+    background-color: white;
+    border-radius: 15px 0px 0px 15px;
+}
+
+.signinform__title {
+    font-size: 24px;
+    margin-bottom: 0.5rem;
+}
+
+.signinform__names {
+    border: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.signinform__infos {
+    display: flex;
+    border: none;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.signinform__error {
+    color: red;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+
+}
+
+.signinform__input {
+    margin-bottom: 0.5rem;
+    margin-right: 0.5rem;
+    max-width: 20rem;
+    border-radius: 5px;
+    height: 2rem;
+    border: 1px solid #262626;
+}
+
+.signinform__label {
+    display: block;
+    margin-bottom: 0.2rem;
+}
+
+.signinform__password {
+    margin-left: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signinform__button {
+    background-color: #184066;
+    color: white;
+    width: 10rem;
+    height: 2rem;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 0.5px solid #262626;
+    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.2s ease, border 0.3s ease;
+}
+
+.signinform__button:hover {
+    background-color: #3d8fdc;
+    border: #3d8fdc;
+}
+
+.signinform__button:focus {
+    background-color: #3d8fdc;
+    border: #3d8fdc;
+}
+
+.signinform__link {
+    color: #184066;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    padding-bottom: 1rem;
+    margin-top: 0.5rem;
+    background: none;
+    border: none;
+    transition: color 0.3s ease;
+}
+
+.signinform__link:hover {
+    color: #3d8fdc;
+}
+
+.signinform__icons {
+    margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 900px) {
+    .left {
+        width: 100%;
+    }
+
+    .signinform {
+        width: 100%;
+    }
+}

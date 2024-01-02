@@ -1,0 +1,29 @@
+.header__logo {
+    max-width: 8rem;
+    margin-left: 10rem;
+}
+
+.navbar-style {
+    background-color: hsla(23, 51%, 88%, 0.50);
+}
+
+.nav-item-style {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-weight: 500;
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.nav-item-style.active {
+    background-color: hsla(181, 100%, 39%, 0.25);
+    border-radius: 5px;
+    border: 1px solid #00C1C5;
+}
+
+
+.nav-item-style:hover {
+    background-color: #00C1C5;
+    border-radius: 5px;
+}

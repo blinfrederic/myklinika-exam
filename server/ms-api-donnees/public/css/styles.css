@@ -1,0 +1,141 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
+    background-color: #184066;
+    color: #fff;
+}
+
+.desc {
+    text-align: center;
+    margin: 0;
+    padding: 1rem;
+
+}
+
+.container__part {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: #184066;
+    color: #fff;
+    padding: 1rem;
+}
+
+.content__part h2 {
+    margin: 0;
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-decoration: underline;
+}
+
+.content__part {
+    border-radius: 5px;
+    padding-bottom: 1rem;
+    background-color: #fff;
+    color: black;
+}
+
+.part {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem;
+
+}
+
+.part__methode {
+    width: 10%;
+    background-color: #184066;
+    color: #fff;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.part__attribut {
+    width: 10%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.part__route {
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.part__title {
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active,
+.accordion:hover {
+
+    background-color: #ccc;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+    padding: 0 18px;
+
+    display: none;
+    overflow: hidden;
+}
+/* Style pour le tableau */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Style pour les en-têtes de tableau */
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Style pour les lignes de tableau alternées */
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+/* Style pour les cellules de tableau */
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Style pour les cellules de la première colonne (Attribut) */
+td:first-child {
+    font-weight: bold;
+}

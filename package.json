@@ -1,0 +1,25 @@
+{
+    "name": "my-klynica-project",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "concurrently \"yarn server-users\" \"yarn server-donnees\" \"yarn client\"",
+        "server-users": "cd server/ms-api-users && yarn dev",
+        "server-donnees": "cd server/ms-api-donnees && yarn dev",
+        "client": "cd client && yarn start",
+        "install-all": "yarn && cd server/ms-api-users && yarn && cd ../ms-api-donnees && yarn && cd ../../client && yarn ",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "mig-seed": "cd server/ms-api-donnees && yarn migration && yarn seeding"
+    },
+    "directories": {
+        "client": "client",
+        "server": "server"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "nodemon": "^3.0.1"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.1"
+    }
+}

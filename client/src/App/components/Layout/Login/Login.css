@@ -1,0 +1,141 @@
+.login__block {
+    display: flex;
+    margin: 5rem auto;
+    align-items: center;
+    border-radius: 15px;
+    width: 90%;
+    box-shadow: 0 10px 10px grey;
+    background-image: url('../../../../images/logo/login-background-office.jpg');
+    background-size: cover;
+    min-height: 500px;
+}
+
+.login__block:focus {
+    border: #262626 2px solid;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0 1rem;
+    background-color: white;
+    border-radius: 15px;
+    min-height: 500px;
+}
+
+
+.login__title {
+    font-size: 2rem;
+}
+
+.login__form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login__email {
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    align-items: center;
+}
+
+.login__password {
+    margin-bottom: 1rem;
+    display: flex;
+    width: 75%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login__input {
+    margin-top: 0.5rem;
+    width: 100%;
+    max-width: 20rem;
+    height: 1.5rem;
+    border: 1px solid #262626;
+    border-radius: 5px;
+}
+
+.login__submit {
+    background-color: #184066;
+    color: white;
+    width: 10rem;
+    max-width: 20rem;
+    height: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 0.5px solid #262626;
+    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.2s ease, border 0.3s ease;
+}
+
+.login__submit:hover {
+    background-color: #3d8fdc;
+    border: #3d8fdc;
+}
+
+.login__submit:focus {
+    background-color: #3d8fdc;
+}
+
+.login__submit:active {
+    transform: translateY(3px);
+    /* Déplace le bouton vers le bas de 3 pixels */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    /* Ajoute une ombre légère */
+    outline: none;
+    /* Supprime la bordure de mise au point par défaut */
+}
+
+.login__links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login__link {
+    color: #184066;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    padding-bottom: 1rem;
+    margin-left: 1rem;
+    background: none;
+    border: none;
+    transition: color 0.3s ease;
+}
+
+.login__link:hover {
+    color: #3d8fdc;
+}
+
+@media screen and (min-width: 900px) {
+    .login__block {
+        width: 70%;
+    }
+
+    .login {
+        width: 50%;
+        min-height: 550px;
+        border-radius: 15px 0px 0px 15px;
+    }
+}
+
+.fade-in {
+    opacity: 1;
+    transition: opacity 3s ease-in-out;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 3s ease-in-out;
+}

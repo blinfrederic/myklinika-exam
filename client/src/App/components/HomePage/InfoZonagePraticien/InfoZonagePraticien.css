@@ -1,0 +1,45 @@
+.btn__info-zonage{
+    background-color: hsla(181, 100%, 39%, 0.50);
+    border-radius: 5px;
+    border: 1.5px solid hsla(181, 100%, 39%, 0.50);
+    padding: 0.5em;
+    width: 20rem;
+}
+
+.btn__info-zonage:hover{
+    background-color: hsla(181, 100%, 39%, 0.75);
+    border: 1.5px solid hsla(181, 100%, 39%, 0.75);
+    border-radius: 5px;
+    padding: 0.5em;
+}
+
+.active{
+    background-color: hsla(181, 100%, 39%, 1);
+    border-radius: 5px;
+    padding: 0.5em;
+    border: 1.5px solid black;
+}
+
+.info-zonage__title{
+    font-weight: 600;
+    margin: 1rem;
+}
+
+.info-zonage__elements{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    padding: 1rem;
+}
+
+.info-zonage__element{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+} 
+
+.info-zonage__value{
+    font-weight:400;
+}
+
+.info-zonage{
+    display: none;
+}

@@ -1,0 +1,15 @@
+.info__container{
+    background-color: white;
+    width: 100%-2rem;
+    border-radius: 10px;
+    margin: 0.5rem 1rem;
+    padding: 1rem;
+}
+
+.info__container p{
+    margin:0.5rem;
+}
+
+.info__tag{
+    font-weight:600;
+}
